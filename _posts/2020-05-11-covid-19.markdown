@@ -33,6 +33,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 [Suivi de la pandémie en live](https://www.youtube.com/watch?v=NMre6IAAAiU){:target="_blank" }
-**Penser à cliquer sur le bouton play**
+ : **Penser à cliquer sur le bouton play**
 
+<!---
 [Outil de suivi du COVID-19](https://www.bing.com/covid?form=M401EC&OCID=M401EC){:target="_blank" }
+--->
