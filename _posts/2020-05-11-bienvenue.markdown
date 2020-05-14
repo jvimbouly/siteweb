@@ -2,7 +2,7 @@
 layout: post
 title:  "Bienvenue sur mon site web !"
 date:   2020-05-11 18:39:49 +0400
-categories: jekyll update
+categories: 
 ---
 <!---
 
