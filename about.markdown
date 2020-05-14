@@ -6,7 +6,7 @@ permalink: /about/
 
 Ce site utilise le thème de base de Jekyll : **minima**
 
-Jekyll est un générateur de pages html pour sites web statiques (exemple : blog). Il est basé sur le langage Ruby.
+Jekyll est un générateur de pages html pour sites web statiques (exemple : création de blog). Il est basé sur le langage Ruby.
 
 Documentation officielle en anglais :
 
