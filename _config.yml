@@ -22,7 +22,7 @@ title: Joel VIMBOULY - Systèmes Numériques
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Joel VIMBOULY - BTS Systèmes Numériques
-baseurl: "siteweb" # the subpath of your site, e.g. /blog
+baseurl: "/siteweb" # the subpath of your site, e.g. /blog
 url: "https://www.jvimbouly.re" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
