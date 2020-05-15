@@ -29,5 +29,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Jekyll SEO Tag
-gem "jekyll-seo-tag"
+gem 'jekyll-seo-tag', '~> 2.6', '>= 2.6.1'
 
