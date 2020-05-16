@@ -21,7 +21,7 @@
 title: Joel VIMBOULY
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Site Personnel  de Joel VIMBOULY - Systèmes Numériques
+  Site web personnel de Joel VIMBOULY - Systèmes Numériques
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jvimbouly.re/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
