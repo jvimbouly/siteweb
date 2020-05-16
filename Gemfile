@@ -16,6 +16,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-seo-tag', '~> 2.6', '>= 2.6.1'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -29,5 +30,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Jekyll SEO Tag
-gem 'jekyll-seo-tag', '~> 2.6', '>= 2.6.1'
+#gem 'jekyll-seo-tag', '~> 2.6', '>= 2.6.1'
 
