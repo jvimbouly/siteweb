@@ -4,5 +4,4 @@
 
 layout: home
 ---
-# Joel VIMBOULY
 **Site web personnel de Joel VIMBOULY**
