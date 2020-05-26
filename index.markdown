@@ -7,3 +7,5 @@ layout: home
 <h1>Site Web Personnel de Joel VIMBOULY</h1>
 
 Support pour la formation en BTS Systèmes Numériques - Présentation des technologies liées à l'electronique, l'informatique et les réseaux.
+
+Sans oublier d'autres évènements !
