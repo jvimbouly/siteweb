@@ -4,4 +4,4 @@
 
 layout: home
 ---
-**Site web personnel de Joel VIMBOULY**
+<h1>Site web personnel de Joel VIMBOULY</h1>
