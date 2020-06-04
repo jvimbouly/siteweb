@@ -36,8 +36,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ***Si on devait mourir demain, toi, qu'est-ce que tu ferais ?***
 
-(en écho à une chanson de Natasha St-Pier et de Pascal Obispo : *Mourir demain*)  
-
+(en écho à une chanson de Natasha St-Pier et de Pascal Obispo : *Mourir demain*)    
+   
 
 
 ------
