@@ -41,7 +41,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 ------
-`***Alors, qui trouvera les mots qu'il faut ???***`
+<span style="color: red">***Alors, qui trouvera les mots qu'il faut ???***</span>
 
 
 
