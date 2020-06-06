@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Information contact à venir
+Les informations de contact seront bientôt sur cette page.
