@@ -4,12 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-***Le formulaire de contact est en construction et en phase de test. Veuillez ne pas l'utiliser pour le moment !***
+***Le formulaire de contact est maintenant disponible !***
 
-Ce formulaire permet aux visiteurs de contacter l'auteur du site web. Vous devrez tout simplement saisir votre adresse mail et votre message. Je vous repondrai dès que possible.
+Ce formulaire permet aux visiteurs de contacter l'auteur du site web. Vous devrez tout simplement saisir votre email et votre message. Je vous repondrai dès que possible.
+
 La zone réservée au message semble petite graphiquement mais vous pouvez soumettre un nombre de mots relativement important.
 
-Le formulaire est simple mais il est **sécurisé** !
+Ce formulaire est simple mais il est **sécurisé** !
 
 
 <form
