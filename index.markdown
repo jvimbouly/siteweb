@@ -11,4 +11,4 @@ COVID-19 ne signifie pas COCO VIDE.
 
 Sans oublier d'autres petites choses !
 
-Le format utilisé est celui du blog avec un style dépouillé, simple et direct.
+Le format utilisé est celui du blog dans un style dépouillé, simple et direct.
