@@ -6,9 +6,9 @@ categories:
 ---
 
 
-Trois Bassins (hauteur = 800 m) : Température de 13 degrès celcius à 8h00
+Trois Bassins (hauteur = 800 m) : Température de 13°C à 8h00 (matin)
 
-Trois Bassins (hauteur = 800 m) : Température de 16 degrés celcius à 11h00
+Trois Bassins (hauteur = 800 m) : Température de 16°C à 11h00 (matin)
 
 Il fait froid !
 
