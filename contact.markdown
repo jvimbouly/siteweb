@@ -16,6 +16,7 @@ Ce formulaire permet aux visiteurs de contacter l'auteur du site web (Joel VIMBO
     Votre Email:
     <input type="text" name="_replyto">
   </label>
+  <br/>
   <label>
     Votre message:
     <textarea name="message"></textarea>
