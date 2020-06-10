@@ -9,7 +9,7 @@ permalink: /contact/
 Ce formulaire permet aux visiteurs de contacter l'auteur du site web. Vous devrez tout simplement saisir votre adresse mail et votre message. Je vous repondrai dès que possible.
 La zone réservée au message semble petite graphiquement mais vous pouvez soumettre un nombre de mots relativement important.
 
-Le formulaire est simple mais il est sécurisé !
+Le formulaire est simple mais il est **sécurisé** !
 
 
 <form
