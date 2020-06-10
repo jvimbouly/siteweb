@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-***Le formulaire de contact est maintenant disponible !***
+***Le formulaire de contact est maintenant opérationnel !***
 
 Ce formulaire permet aux visiteurs de contacter l'auteur du site web. Vous devrez tout simplement saisir votre **email** et votre **message**. Il faudra ensuite soumettre ces informations en cliquant sur le bouton **Envoyer**. Je vous repondrai dès que possible.
 
