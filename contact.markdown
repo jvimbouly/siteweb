@@ -10,8 +10,7 @@ Ce formulaire permet aux visiteurs de contacter l'auteur du site web. Vous devre
 
 La zone réservée au message semble petite graphiquement mais vous pouvez soumettre un nombre de mots relativement important.
 
-Ce formulaire est simple mais il est **sécurisé** !
-
+<span style="color: red">Ce formulaire est simple mais il est **sécurisé** !</span>
 
 <form
   action="https://formspree.io/xzbjgdvb"
