@@ -6,7 +6,10 @@ permalink: /contact/
 
 ***Le formulaire de contact est en construction et en phase de test. Veuillez ne pas l'utiliser pour le moment !***
 
-Ce formulaire permet aux visiteurs de contacter l'auteur du site web (Joel VIMBOULY). Il faut saisir votre adresse mail et votre message. La procédure est sécurisée !
+Ce formulaire permet aux visiteurs de contacter l'auteur du site web. Vous devrez tout simplement saisir votre adresse mail et votre message. Je vous repondrai dès que possible.
+La zone réservée au message semble petite graphiquement mais vous pouvez soumettre un nombre de mots relativement important.
+
+Le formulaire est simple mais il est sécurisé !
 
 
 <form
