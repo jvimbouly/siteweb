@@ -21,6 +21,7 @@ Ce formulaire permet aux visiteurs de contacter l'auteur du site web (Joel VIMBO
     Votre message:
     <textarea name="message"></textarea>
   </label>
+  <br/>
 
   <!-- your other form fields go here -->
 
