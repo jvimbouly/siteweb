@@ -41,7 +41,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 ------
-<span style="color: red">***Le message est clair !***</span>
+<span style="color: red">***Est-ce que je sais lire entre les ... ?***</span>
 
 
 
