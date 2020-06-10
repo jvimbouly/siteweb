@@ -13,12 +13,12 @@ Ce formulaire permet aux visiteurs de contacter l'auteur du site web (Joel VIMBO
   method="POST"
 >
   <label>
-    Votre Email:
+    Email :
     <input type="text" name="_replyto">
   </label>
   <br/>
   <label>
-    Votre message:
+    Message :
     <textarea name="message"></textarea>
   </label>
   <br/>
