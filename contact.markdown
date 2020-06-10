@@ -8,6 +8,7 @@ permalink: /contact/
 
 Ce formulaire permet aux visiteurs de contacter l'auteur du site web (Joel VIMBOULY). Il faut saisir votre adresse mail et votre message. La procédure est sécurisée !
 
+
 <form
   action="https://formspree.io/xzbjgdvb"
   method="POST"
@@ -17,10 +18,12 @@ Ce formulaire permet aux visiteurs de contacter l'auteur du site web (Joel VIMBO
     <input type="text" name="_replyto">
   </label>
   <br/>
+  <br/>
   <label>
     Message :
     <textarea name="message"></textarea>
   </label>
+  <br/>
   <br/>
 
   <!-- your other form fields go here -->
