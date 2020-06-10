@@ -12,3 +12,5 @@ COVID-19 ne signifie pas COCO VIDE.
 Sans oublier d'autres petites choses !
 
 Le format utilisé est celui du blog dans un style dépouillé, simple et direct.
+
+[![Black Lives Matters]({{ site.url }}/img/blm.png)](https://blacklivesmatter.com/){:target="_blank" }
