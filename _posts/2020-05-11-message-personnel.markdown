@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement (suite) !"
-date:   2020-06-04 10:46:49 +0400
+date:   2020-06-10 11:49:49 +0400
 categories: 
 ---
 <!---
