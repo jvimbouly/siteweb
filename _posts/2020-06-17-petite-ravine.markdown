@@ -8,4 +8,4 @@ categories:
 
 Pont de la Petite Ravine (sur l'ancienne route nationale) :
 
-![Pont de la Petite Ravine]({{ site.url }}/img/pont_petite_ravine.JPG)
+![Pont de la Petite Ravine]({{ site.url }}/img/pont_petite_ravine2.JPG)
