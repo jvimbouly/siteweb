@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement (suite) !"
-date:   2020-06-20 05:00:49 +0400
+date:   2020-06-23 03:54:49 +0400
 categories: 
 ---
 <!---
@@ -41,6 +41,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 ------
-<span style="color: red">***Il y des choses qui ne peuvent laisser insensible. Cela m'encourage à ... !***</span>
+<span style="color: red">***Il y des choses qui ne peuvent laisser insensible. Cela m'encourage à donner, à ... !***</span>
 
 
