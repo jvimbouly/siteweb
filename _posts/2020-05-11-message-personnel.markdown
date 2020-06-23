@@ -41,6 +41,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 ------
-<span style="color: red">***Il y des choses qui ne peuvent laisser insensible. Cela encourage à ... !***</span>
+<span style="color: red">***Il y des choses qui ne peuvent laisser insensible. Cela m'encourage à ... !***</span>
 
 
