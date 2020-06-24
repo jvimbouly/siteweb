@@ -45,5 +45,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 -----
-A suivre ...
+<span style="color: green">***A suivre ...***</span>
 
