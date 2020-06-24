@@ -39,7 +39,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 (en écho à une chanson de Natasha St-Pier et de Pascal Obispo : *Mourir demain*)    
    
 
-
 ------
 <span style="color: red">***Il y a une grande perturbation dans la force et cela n'a rien à voir avec le coté obscur. Je ne ferai rien pour l'arrêter, bien au contraire... !***</span>
 
