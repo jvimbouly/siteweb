@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mon Message post-confinement (suite) !"
+title:  "Mon Message post-confinement (encore suite) !"
 date:   2020-06-24 03:51:49 +0400
 categories: 
 ---
@@ -37,7 +37,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ***Si on devait mourir demain, toi, qu'est-ce que tu ferais ?***
 
 (en écho à une chanson de Natasha St-Pier et de Pascal Obispo : *Mourir demain*)  
-  
+
    
 
 ------
