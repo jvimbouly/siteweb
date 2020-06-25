@@ -50,7 +50,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 <span style="color: green">***Dans le cas contraire, je ne sais pas ce qu'il faut faire pour le moment ?***</span>
 
 <span style="color: green">*Je prends des risques en me dévoilant, peu importe !*</span>
-<span style="color: green">***J'ai déjà perdu beaucoup de temps et il ne sera jamais rattrapé. Alors autant se lancer ! ***</span>
+<span style="color: green">*J'ai déjà perdu beaucoup de temps et il ne sera jamais rattrapé. Alors autant se lancer !*</span>
 
 -----
 <span style="color: green">***May the force be with you !***</span>
