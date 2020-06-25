@@ -45,7 +45,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 -----
-<span style="color: blue">*J'ai perçu des signaux, tout d'abord visuels puis sonores. Ils étaient "loins" puis progressivement ils sont devenus plus forts. J'ai essayé de les ignorer, mais en vain cette fois. Je ne peux plus rester insensible. Car, il y a quelque chose de puissant et de très fort que j'ai toujours essayé d'enfouir. Je crois que j'en ai perdu le contrôle et il sera maintenant difficile de l'empêcher de ressurgir.* ***Si je fais une grosse erreur d'interpretation (car il est en effet très facile de se faire un film), tout ce qu'il y a dans ce post est à ignorer !***</span>
+<span style="color: blue">*J'ai perçu des signaux, tout d'abord visuels puis sonores. Ils étaient "loins" puis progressivement ils sont devenus plus forts. J'ai essayé de les ignorer, mais en vain cette fois. Je ne peux plus rester insensible. Car, il y a quelque chose de puissant et de très fort que j'ai toujours essayé d'enfouir. Je crois que j'en ai perdu le contrôle et il sera maintenant difficile de l'empêcher de ressurgir.* ***Si je fais une grosse erreur d'interpretation (car il est en effet très facile de se faire un film), tout ce qu'il y a dans ce post est à ignorer et à oublier !***</span>
 
 <span style="color: green">***Dans le cas contraire, je ne sais pas ce qu'il faut faire pour le moment ?***</span>
 
