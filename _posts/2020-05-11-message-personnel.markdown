@@ -44,7 +44,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 -----
 
-<span style="color: blue">*J'ai perçu des signaux, tout d'abord visuels puis sonores. Ils étaient "loin" puis progressivement ils sont devenus plus forts. J'ai essayé de les ignorer, mais en vain. Cette fois, je ne peux plus rester insensible aux messages "envoyés". En effet, j'ai perdu le contrôle de quelque chose de puissant et de très fort que j'ai toujours essayé d'enfouir et de contenir pendant de très longues années. Il sera maintenant difficile de l'empêcher de ressurgir.* ***Si mon interpretation est totalement infondée et erronée (car il est très facile de se faire un film), tout ce qu'il y a dans ce post est à ignorer et à oublier !***</span>
+<span style="color: blue">*J'ai perçu des signaux, tout d'abord visuels puis sonores. Ils étaient "loin" puis progressivement ils sont devenus plus forts. J'ai essayé de les ignorer, mais en vain. Cette fois, je ne peux plus rester insensible aux messages "envoyés". En effet, j'ai perdu le contrôle de quelque chose de puissant et de très fort que j'ai toujours essayé d'enfouir et de contenir pendant de très longues années. Il sera maintenant difficile de l'empêcher de ressurgir.* </span>
+
+<span style="color: blue">***Si mon interpretation est totalement infondée et erronée (car il est très facile de se faire un film), tout ce qu'il y a dans ce post est à ignorer et à oublier !***</span>
 
 <span style="color: green">***Dans le cas contraire, "Advienne que pourra !"***</span>
 
