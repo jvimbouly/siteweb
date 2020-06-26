@@ -48,7 +48,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 <span style="color: green">***Dans le cas contraire, "Advienne que pourra !"***</span>
 
-<span style="color: green">*Je prends des risques en me dévoilant, peu importe !*</span>
+<span style="color: green">*Je prends des risques en me dévoilant sur Internet !*</span>
 <span style="color: green">*J'ai déjà perdu beaucoup trop de temps qui ne sera jamais rattrapé. Alors autant se lancer !*</span>
 
 -----
