@@ -49,7 +49,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 <span style="color: green">***Dans le cas contraire, "Advienne que pourra !"***</span>
 
 <span style="color: green">*Je prends des risques en me dévoilant sur Internet !*</span>
-<span style="color: green">*J'ai déjà perdu beaucoup trop de temps qui ne sera jamais rattrapé. Alors autant se lancer !*</span>
+<span style="color: green">*J'ai déjà perdu beaucoup trop de temps, alors autant se lancer !*</span>
 
 -----
 <span style="color: green">***May the Force be with you !***</span>
