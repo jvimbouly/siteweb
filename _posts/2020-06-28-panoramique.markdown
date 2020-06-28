@@ -6,6 +6,6 @@ categories:
 ---
 
 
-Vue panoramique Saint Leu et Trois Bassins. Le soleil plonge à l'Ouest :
+Vue panoramique de Saint Leu et de Trois Bassins. Le soleil plonge à l'Ouest :
 
 ![Panoramique]({{ site.url }}/img/panoramique_ouest.jpg)
