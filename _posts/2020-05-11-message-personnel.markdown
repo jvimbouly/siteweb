@@ -30,7 +30,7 @@ categories:
 
 <span style="color: green">*P-S 1 : Je suis un fan de la saga "Star Wars" et de la trilogie "Le Seigneur des Anneaux". Par contre, j'ai cessé de regarder les saisons GoT à cause de la violence omniprésente.*</span>
 
-<span style="color: green">*P-S 2 : Une page web hébergée sur un serveur du réseau Internet ne dispose ni de protection, ni de filtre. Par conséquent, toute personne bien intentionnée ou non, peut consulter les informations qui y figurent => il faut donc faire très attention à celles qui sont personnelles !*</span>
+<span style="color: green">*P-S 2 : Une page web hébergée sur un serveur du réseau Internet ne dispose ni de protection, ni de filtre. Par conséquent, toute personne bien intentionnée ou non, peut consulter les informations publiées => il faut donc faire très attention à celles qui sont très personnelles !*</span>
 
 -----
 <span style="color: green">***May the Force be with you !***</span>
