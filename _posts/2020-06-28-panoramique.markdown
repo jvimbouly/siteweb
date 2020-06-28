@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Panoramique"
+title:  "Vue Panoramique"
 date:   2020-06-28 08:15:49 +0400
 categories: 
 ---
