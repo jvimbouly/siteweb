@@ -16,7 +16,7 @@ categories:
    
 
 ------
-<span style="color: red">***Il y a une très forte perturbation dans la Force, sans aucun lien avec le coté obscur.... ! Elle n'est pas récente !***</span>
+<span style="color: red">***Il y a une très forte perturbation dans la Force, sans aucun lien avec le coté obscur.... !***</span>
 
 
 -----
