@@ -26,7 +26,7 @@ categories:
 
 <span style="color: blue">*Il faut garder à l'esprit que le ressenti revêt d'un caractère subjectif et la plupart de temps, la réalité est tout autre !*</span>
 
-<span style="color: green">***Alors, advienne que pourra !"***</span>
+<span style="color: green">***Alors, advienne que pourra !***</span>
 
 <span style="color: green">*P-S 1 : Je suis un fan de la saga "Star Wars" et de la trilogie "Le Seigneur des Anneaux". Par contre, j'ai cessé de regarder les saisons GoT à cause de la violence omniprésente.*</span>
 
