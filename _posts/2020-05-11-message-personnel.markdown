@@ -21,6 +21,7 @@ categories:
 
 -----
 
+
 <span style="color: blue">*Beaucoup de choses à exprimer suite à un ressenti !* </span>
 
 <span style="color: blue">*Il faut garder à l'esprit que le ressenti revêt d'un caractère subjectif et la plupart de temps, la réalité est tout autre !*</span>
@@ -28,6 +29,7 @@ categories:
 <span style="color: green">***Alors, advienne que pourra !"***</span>
 
 <span style="color: green">*P-S 1 : Je suis fan de la sage "Star Wars" et de la trilogie "Le Seigneur des Anneaux". Par contre, j'ai cessé de regarder les saisons GoT à cause de la violence omniprésente*</span>
+
 <span style="color: green">*P-S 2 : Une page web hébergée sur un serveur du réseau Internet ne dispose ni de protection, ni de filtre. Par conséquent, toute personne bien intentionnée ou non, peut consulter les informations qui y figurent => il faut donc faire très attention à celles qui sont personnelles !*</span>
 
 -----
