@@ -24,7 +24,7 @@ categories:
 
 <span style="color: blue">*Beaucoup de choses à exprimer suite à un ressenti !* </span>
 
-<span style="color: blue">*Il faut garder à l'esprit que le ressenti est totalement subjectif et la plupart de temps, la réalité est tout autre !*</span>
+<span style="color: blue">*Il faut garder à l'esprit que le ressenti présente un caractère subjectif et la plupart de temps, la réalité est tout autre !*</span>
 
 <span style="color: green">***Alors, advienne que pourra !***</span>
 
