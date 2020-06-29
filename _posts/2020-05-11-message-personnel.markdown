@@ -22,6 +22,7 @@ categories:
 
 -----
 
+
 <span style="color: blue">***A l'instar des langages de programmation, j'ai aussi mes mots clés :
 
 Powerful, Strong, Unstoppable, Timeless (Puissant, Fort, Inarrêttable, Intemporel)***</span>
