@@ -27,7 +27,7 @@ categories:
 
 <span style="color: blue">***Powerful, Strong, Unstoppable, Timeless (Puissant, Fort, Inarrêtable, Intemporel)***</span>
 
-<span style="color: blue">*A quoi peuvent-ils être associés ?*</span>
+<span style="color: blue">*Ils pourraient faire penser à quelque chose !*</span>
 
 -----
 
