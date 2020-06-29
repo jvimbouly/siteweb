@@ -23,8 +23,11 @@ categories:
 -----
 
 
-<span style="color: blue">*A l'instar des langages de programmation, j'ai aussi mes mots clés :*</span>
- <span style="color: blue">***Powerful, Strong, Unstoppable, Timeless (Puissant, Fort, Inarrêtable, Intemporel)***</span>
+<span style="color: blue">*A l'instar des outils pour le web, j'ai généré des mots clés :*</span>
+
+<span style="color: blue">***Powerful, Strong, Unstoppable, Timeless (Puissant, Fort, Inarrêtable, Intemporel)***</span>
+
+<span style="color: blue">*A quoi peuvent-ils être associés ?*</span>
 
 -----
 
