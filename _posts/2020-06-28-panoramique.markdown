@@ -10,4 +10,4 @@ Vue panoramique de la côte de Saint Leu et de Trois Bassins. Le soleil plonge �
 
 La prise de vue est faite d'un peu trop loin, mais il est possible de distinguer les contours de la côte de cette partie de l'Ile !
 
-![Panoramique]({{ site.url }}/img/panoramique_ouest.jpg)
+![Panorama]({{ site.url }}/img/panoramique_ouest.jpg)
