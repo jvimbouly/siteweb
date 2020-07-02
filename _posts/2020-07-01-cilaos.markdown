@@ -10,18 +10,18 @@ Cilaos est toujours magnifique (surtout par un temps lumineux comme aujourd'hui)
 
 Les photos ont été prises avec un *Huawei Nova 5T*.
 
-Panorama à la sortie du Tunnel de Gueule Rouge :
+> Panorama à la sortie du tunnel de Gueule Rouge :
 
 ![Panoramique_Gueule_Rouge]({{ site.url }}/img/cilaos/sortie_Tunnel_Gueule_Rouge.jpg)
 
-Panorama à partir de la mare à Joncs :
+> Panorama à partir de la mare à Joncs :
 
 ![Panora_Mare_Joncs]({{ site.url }}/img/cilaos/Pano_mare_a_jonc.jpg)
 
-Grand Bénare et Col du Taibit :
+> Grand Bénare et Col du Taibit :
 
 ![Grand_Benare]({{ site.url }}/img/cilaos/Grand_Benare_Taibit.jpg)
 
-Notre Dame des Neiges au pied du Piton des Neiges :
+> Notre Dame des Neiges au pied du Piton des Neiges :
 
 ![Piton_des_Neiges]({{ site.url }}/img/cilaos/Piton_Neiges_ND_Neiges.jpg)
