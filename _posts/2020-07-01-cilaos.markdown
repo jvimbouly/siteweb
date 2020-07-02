@@ -10,6 +10,8 @@ Cilaos est toujours magnifique (surtout par un temps lumineux comme aujourd'hui)
 
 Il n'y a pas mieux pour oublier les vicissitudes de la vie dans "les bas"  !
 
+Photos prises avec un Huawei Nova 5T.
+
 Panorama à la sortie du Tunnel de Gueule Rouge :
 
 ![Panoramique_Gueule_Rouge]({{ site.url }}/img/cilaos/sortie_Tunnel_Gueule_Rouge.jpg)
