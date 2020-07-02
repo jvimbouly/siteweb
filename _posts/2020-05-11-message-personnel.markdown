@@ -18,3 +18,9 @@ categories:
 
 ------
 
+<span style="color: blue">*Il y a des choses plus importantes dans la vie actuellement ! *</span>
+
+
+------
+
+<span style="color: green">***May the Force be with you !***</span>
