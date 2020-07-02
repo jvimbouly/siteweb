@@ -22,6 +22,6 @@ Les photos ont été prises avec un *Huawei Nova 5T*.
 
 ![Grand_Benare]({{ site.url }}/img/cilaos/Grand_Benare_Taibit.jpg)
 
-> Notre Dame des Neiges au pied du Piton des Neiges :
+> Eglise "Notre Dame des Neiges" au pied du Piton des Neiges :
 
 ![Piton_des_Neiges]({{ site.url }}/img/cilaos/Piton_Neiges_ND_Neiges.jpg)
