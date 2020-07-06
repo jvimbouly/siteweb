@@ -7,7 +7,7 @@ categories:
 
 Encore des Pailles en queue dans le ciel de la Réunion. Espérons que cela dure le plus longtemps possible !
 
-Le duo a été "flashé" au moyen d'un Nova 5T toujours au dessus de la ravine DIVON (commune de Saint Paul)
+Le duo a été "flashé" au moyen d'un Nova 5T toujours au dessus de la ravine Divon (commune de Saint Paul)
 
 
 ![2 Pailles en queue]({{ site.url }}/img/deux_paille_en_queue.jpg)
