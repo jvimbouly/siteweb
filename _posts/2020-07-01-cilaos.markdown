@@ -18,7 +18,7 @@ Les photos ont été prises avec un *Huawei Nova 5T*.
 
 ![Panora_Mare_Joncs]({{ site.url }}/img/cilaos/Pano_mare_a_jonc.jpg)
 
-> Grand Bénare et Col du Taibit :
+> Grand Bénare et Col du Taïbit :
 
 ![Grand_Benare]({{ site.url }}/img/cilaos/Grand_Benare_Taibit.jpg)
 
