@@ -20,7 +20,7 @@ categories:
 
 
 
-<span style="color: blue">***La faille existait depuis longtemps et la protection fonctionnait tant bien que mal. Mais cette fois, il y a eu une attaque imprévisible, qui a frappé la partie sensible. Mon système de défense n'a pas pu resister : il a littéralement volé en éclats et a été anéanti. Cela devait finir par arriver !***</span>
+<span style="color: blue">***La faille existait depuis longtemps et la protection fonctionnait tant bien que mal. Mais cette fois, il y a eu une attaque imprévisible, qui a frappé la partie sensible. Mon système de défense n'a pas pu résister : il a littéralement volé en éclats et a été anéanti. Cela devait finir par arriver !***</span>
 
 
 ------
