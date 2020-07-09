@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mon Message post-confinement (encore...) !"
-date:   2020-07-01 17:30:49 +0400
+title:  "Mon Message post-confinement (Toujours...) !"
+date:   2020-07-09 05:35:49 +0400
 categories: 
 ---
 <!---
@@ -18,7 +18,9 @@ categories:
 
 ------
 
-<span style="color: blue">***Il faut rester optimiste !***</span>
+
+
+<span style="color: blue">***La faille existait depuis longtemps et la protection fonctionnait tant bien que mal. Mais cette fois, il y a eu une attaque imprévisible, qui a frappé la zone sensible. Mon système de défense n'a pas pu resister : il a littéralement volé en éclats et a été anéanti. Cela devait finir par arriver !***</span>
 
 
 ------
