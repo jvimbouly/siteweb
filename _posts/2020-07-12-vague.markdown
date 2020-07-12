@@ -5,6 +5,6 @@ date:   2020-07-12 07:06:49 +0400
 categories: 
 ---
 
-***La mèr lé doss' zordi !***
+***La mèr lé doss', Soleil lé for !***
 
 ![Vague Spot de la Tortue]({{ site.url }}/img/spot_tortue.jpg)
