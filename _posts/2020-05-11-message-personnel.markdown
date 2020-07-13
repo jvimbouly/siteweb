@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement (Toujours...) !"
-date:   2020-07-09 05:35:49 +0400
+date:   2020-07-13 08:50:49 +0400
 categories: 
 ---
 <!---
@@ -9,20 +9,25 @@ categories:
 --->
 
 
-
-***Si on devait mourir demain, toi, qu'est-ce que tu ferais ?***
-
-(en écho à une chanson de Natasha St-Pier et de Pascal Obispo : *Mourir demain*)  
-
-   
+Il y a des choses qui ne peuvent laisser insensible ...
 
 ------
 
+<span style="color: blue">Le sentiment de haine et de détestation est violent et dévastateur. Il engendre de grandes souffrances et laisse des traces. Je l'ai déjà subi, il y a plusieurs années, avec des conséquences désastreuses. J'avais ma part de responsabilité et je l'ai assumé en le payant très cher.
 
 
-<span style="color: blue">***La faille existait depuis longtemps et la protection fonctionnait tant bien que mal. Mais cette fois, il y a eu une attaque imprévisible, qui a frappé la partie sensible. Mon système de défense n'a pas pu résister : il a littéralement volé en éclats et a été anéanti. Cela devait finir par arriver !***</span>
+Aujourd'hui, de façon indirecte, un ressentiment empreint d'une grande violence ressurgit (sans raison valable à mon sens). Cela a pour effet, une nouvelle fois, de me repousser et de m'éloigner davantage.
+
+
+J'ai toujours été dans l'ombre et j'y resterai : nul besoin de me ***"haïr"***, de me ***"détester"*** et de me ***"faire dégager"***. Ce sont des mots violents qui blessent. Mais peu importe ! 
+
+
+Je n'ai pas pour habitude de tirer des plans sur la comète et d'insister. Je sais aussi m'éclipser sans chercher à entraver le bonheur d'autrui.
+
+
+Don't worry and Enjoy your happiness </span>
 
 
 ------
 
-<span style="color: green">***May the Force be with you !***</span>
+<span style="color: green">P-S.  aujourd'hui c'est ma fête, alors je vais rester positif !</span>
