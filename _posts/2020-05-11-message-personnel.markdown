@@ -18,7 +18,7 @@ Il y a des choses qui ne peuvent laisser insensible ...
 Aujourd'hui, de façon indirecte, un ressentiment empreint d'une grande violence ressurgit (sans raison valable à mon sens). Cela a pour effet, une nouvelle fois, de me repousser et de m'éloigner davantage.
 
 
-J'ai toujours été dans l'ombre et j'y resterai : nul besoin de me ***"haïr"***, de me ***"détester"*** et de me ***"faire dégager"***. Ce sont des mots violents qui blessent. Mais peu importe ! 
+J'ai toujours été dans l'ombre et j'y resterai : nul besoin de me ***"haïr"***, de me ***"détester"*** et de me ***"faire dégager"***. Ce sont des mots violents qui ont pour objectif de blesser. Mais peu importe ! 
 
 
 Je n'ai pas pour habitude de tirer des plans sur la comète et d'insister. Je sais aussi m'éclipser sans chercher à entraver le bonheur d'autrui.
