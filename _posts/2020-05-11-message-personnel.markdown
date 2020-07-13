@@ -12,7 +12,7 @@ Il y a des choses qui ne peuvent laisser insensible ...
 
 ------
 
-<span style="color: blue">Le sentiment de haine et de détestation est violent et dévastateur. Il engendre de grandes souffrances et laisse des traces. Je l'ai déjà subi, il y a plusieurs années, avec des conséquences désastreuses. J'avais ma part de responsabilité et je l'ai assumé en le payant très cher.
+<span style="color: blue">Le sentiment de haine et de détestation est violent et dévastateur. Il engendre de grandes souffrances et laisse des traces. Je l'ai déjà subi, il y a plusieurs années, avec des conséquences désastreuses. J'avais ma part de responsabilité et je l'ai assumé en le payant très cher.</span>
 
 
 Aujourd'hui, de façon indirecte, un ressentiment empreint d'une grande violence ressurgit (sans raison valable à mon sens). Cela a pour effet, une nouvelle fois, de me repousser et de m'éloigner davantage.
@@ -25,7 +25,7 @@ Je n'ai pas pour habitude de tirer des plans sur la comète et d'insister. Je sa
 
 
 Don't Worry and Enjoy Your Happiness
-</span>
+
 
 
 ------
