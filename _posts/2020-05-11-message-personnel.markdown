@@ -24,7 +24,8 @@ J'ai toujours été dans l'ombre et j'y resterai : nul besoin de me ***"haïr"**
 Je n'ai pas pour habitude de tirer des plans sur la comète et d'insister. Je sais aussi m'éclipser sans chercher à entraver le bonheur d'autrui.
 
 
-Don't Worry and Enjoy Your Happiness</span>
+Don't Worry and Enjoy Your Happiness
+</span>
 
 
 ------
