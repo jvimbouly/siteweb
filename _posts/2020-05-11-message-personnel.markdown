@@ -21,7 +21,7 @@ Aujourd'hui, de façon indirecte, un ressentiment empreint d'une grande violence
 J'ai toujours été dans l'ombre et j'y resterai : nul besoin de me ***"haïr"***, de me ***"détester"*** et de me ***"faire dégager"***. Ce sont des mots violents qui ont pour objectif de blesser. Mais peu importe ! 
 
 
-Je n'ai pas pour habitude de tirer des plans sur la comète et d'insister. Je sais aussi m'éclipser sans chercher à entraver le bonheur d'autrui.
+Je n'ai pas pour habitude de tirer des plans sur la comète. Je sais aussi m'éclipser sans chercher à entraver le bonheur d'autrui.
 
 
 Don't Worry and Enjoy Your Happiness
