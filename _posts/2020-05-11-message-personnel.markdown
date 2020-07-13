@@ -8,7 +8,6 @@ categories:
 
 --->
 
-
 Il y a des choses qui ne peuvent laisser insensible ...
 
 ------
