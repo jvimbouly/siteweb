@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement (Toujours...) !"
-date:   2020-07-16 09:03:49 +0400
+date:   2020-07-17 04:45:49 +0400
 categories: 
 ---
 <!---
@@ -10,3 +10,4 @@ categories:
 
 
 ------
+***This is the Way* (Mandalioran Mantra)**
