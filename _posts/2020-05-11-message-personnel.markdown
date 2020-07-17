@@ -10,4 +10,4 @@ categories:
 
 
 ------
-***This is the Way* (Mandalioran Mantra)**
+***This is the Way* (Mandalorian Mantra)**
