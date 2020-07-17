@@ -10,4 +10,6 @@ categories:
 
 
 ------
-***This is the Way* (Mandalorian Mantra)**
+
+
+<span style="color: green">***This is the Way* (Mandalorian Mantra)**</span>
