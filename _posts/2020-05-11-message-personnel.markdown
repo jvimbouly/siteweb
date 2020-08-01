@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mon Message post-confinement ....!"
+title:  "Mon Message post-confinement .... !"
 date:   2020-08-01 05:57:49 +0400
 categories: 
 ---
