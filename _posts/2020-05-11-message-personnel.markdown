@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Mon Message post-confinement (Toujours...) !"
-date:   2020-07-17 04:45:49 +0400
+title:  "Mon Message post-confinement ....!"
+date:   2020-08-01 05:57:49 +0400
 categories: 
 ---
 <!---
 
 --->
 
+
+<span style="color: blue">****Personne ne peut changer le passé ... ***</span>
 
 ------
 
