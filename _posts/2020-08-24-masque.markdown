@@ -6,6 +6,10 @@ categories:
 ---
 
 
-Il est devenu un accessoire indispensable et obligatoire depuis la rentrée scolaire dans le secondaire et à l'université. Il faudra aussi le porter dans les communes de la côte Ouest à partir d'aujourd'hui (24/08/2020).
+Il est devenu un accessoire indispensable et obligatoire depuis la rentrée scolaire dans le secondaire et à l'IUT (Université). Il faudra aussi le porter dans les communes de la côte Ouest à partir du 24/08/2020.
 
 ![Masque chirurgical]({{ site.url }}/img/masque.jpg)
+
+---
+
+***Il convient d'être prudent !***
