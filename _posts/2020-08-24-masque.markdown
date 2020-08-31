@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "Masque - COVID-19"
-date:   2020-08-26 03:31:50 +0400
+date:   2020-08-31 04:13:50 +0400
 categories: 
 ---
 
 
-Il est devenu un accessoire indispensable et obligatoire depuis la rentrée scolaire dans le secondaire et à l'IUT (Université). Il faudra aussi le porter dans les communes de la côte Ouest à partir du 24/08/2020.
+Le port du masque est désormais obligatoire dans les établissements scolaires et à l'université (IUT compris). Il faudra aussi le porter dans les communes de la côte Ouest à partir du 24/08/2020 (jusqu'au 06/09/2020).
 
-![Masque chirurgical]({{ site.url }}/img/masque.jpg)
+![Masque chirurgical]({{ site.url }}/img/masque2.jpg)
+
+[Explication sur la norme EN 14683 type I](https://travail-emploi.gouv.fr/IMG/pdf/faq-masques-_31_mars_2020.pdf){:target="_blank" }
 
 ---
 
