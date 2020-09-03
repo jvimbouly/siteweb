@@ -15,5 +15,5 @@ Le port du masque est désormais obligatoire dans les établissements scolaires 
 ---
 
 
-<span style="color: red">***Il convient d'être prudent !***</span>
+<span style="color: red">***Il convient d'être très prudent !***</span>
 
