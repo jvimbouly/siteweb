@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Le port du masque est désormais obligatoire dans les établissements scolaires et à l'université (IUT compris). Il faudra aussi le porter dans les communes de la côte Ouest à partir du 24/08/2020 (jusqu'au 06/09/2020).
+Le port du masque est désormais obligatoire dans les établissements scolaires et à l'université (IUT compris).
 
 ![Masque chirurgical]({{ site.url }}/img/masque2.jpg)
 
