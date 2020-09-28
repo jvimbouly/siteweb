@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Masque - COVID-19"
-date:   2020-08-31 04:13:50 +0400
+date:   2020-09-28 07:43:50 +0400
 categories: 
 ---
 
 
-Le port du masque est désormais obligatoire dans les établissements scolaires et à l'université (IUT compris).
+Le port du masque est obligatoire dans les établissements scolaires et à l'université (IUT compris).
 
 ![Masque chirurgical]({{ site.url }}/img/masque2.jpg)
 
