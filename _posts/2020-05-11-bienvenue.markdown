@@ -32,7 +32,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 --->
 
-Ce site servira dans un premier de temps de support pour les enseignements de BTS SN IR (mode continuité pédagogique). 
+Ce site servira de support pour les enseignements de BTS SN IR et de DUT RT. 
 
 
 COVID-19 ne signifie pas *COCO VIDE*.
