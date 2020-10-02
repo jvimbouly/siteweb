@@ -7,7 +7,7 @@ layout: home
 <h1>Site Web Personnel de Joel VIMBOULY</h1>
 
 Bienvenue sur ce site web qui constituera le support pour la formation en BTS Systèmes Numériques et en DUT Réseaux et Télécummunications. Présentation des technologies liées à l'electronique, l'informatique et les réseaux.
-COVID-19 ne signifie pas COCO VIDE.
+<p>COVID-19 ne signifie pas COCO VIDE.</p>
 
 Sans oublier d'autres petites choses personnelles !
 
