@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Spot de la Tortue"
-date:   2020-07-12 07:06:49 +0400
+date:   2020-10-12 11:40:49 +0400
 categories: 
 ---
 
-***La mèr lé doss', Soleil lé for !***
+***L'été austral commence à pointer le bout de son nez !***
 
-![Vague Spot de la Tortue]({{ site.url }}/img/spot_tortue.jpg)
+![Spot de la Tortue]({{ site.url }}/img/tortue.JPG)
