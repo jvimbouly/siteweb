@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2020-10-02 04:57:30 +0400
+date:   2020-10-12 11:47:30 +0400
 categories: 
 ---
 <!---
@@ -9,7 +9,7 @@ categories:
 --->
 
 
-<span style="color: blue">***Au final, le feu ça brûle***</span>
+<span style="color: blue">***Au final, le feu ça brûle !***</span>
 <br/>
 
 ------
