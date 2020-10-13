@@ -13,4 +13,4 @@ categories:
 <br/>
 
 ------
-&copy; : Grand Corps Malade & C. Lellouche
+&copy;  Grand Corps Malade & C. Lellouche
