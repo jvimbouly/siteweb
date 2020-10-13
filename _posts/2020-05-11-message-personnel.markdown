@@ -13,7 +13,7 @@ categories:
 <br/>
 
 ------
-
+&copy;
 <!---
 
 <span style="color: green">***This is the Way** (Mandalorian Mantra)*</span>
