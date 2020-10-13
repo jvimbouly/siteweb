@@ -13,4 +13,4 @@ categories:
 <br/>
 
 ------
-&copy;
+&copy; : 
