@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2020-10-12 11:47:30 +0400
+date:   2020-10-13 03:19:30 +0400
 categories: 
 ---
 <!---
@@ -13,4 +13,4 @@ categories:
 <br/>
 
 ------
-&copy; : 
+&copy; : Grand Corps Malade & C. Lellouche
