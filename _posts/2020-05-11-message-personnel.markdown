@@ -9,8 +9,8 @@ categories:
 --->
 
 
-<span style="color: blue">***Au final, le feu ça brûle !***</span>
+<span style="color: blue">*** ... au final, le feu ça brûle !***</span>
 <br/>
 
 ------
-&copy;  Grand Corps Malade & C. Lellouche
+&copy;  Grand Corps Malade & Camille Lellouche
