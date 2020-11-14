@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Le port du masque est désormais obligatoire en punlic sur toute l'île.
+Le port du masque est désormais obligatoire en public sur toute l'île.
 
 ![Masque chirurgical]({{ site.url }}/img/masque2.jpg)
 
