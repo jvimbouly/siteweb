@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Masque - COVID-19"
-date:   2020-09-27 06:43:50 +0400
+date:   2020-11-14 04:52:50 +0400
 categories: 
 ---
 
 
-Le port du masque est obligatoire dans les établissements scolaires et à l'université (IUT compris).
+Le port du masque est désormais obligatoire en punlic sur toute l'île.
 
 ![Masque chirurgical]({{ site.url }}/img/masque2.jpg)
 
