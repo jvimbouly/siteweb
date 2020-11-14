@@ -14,6 +14,5 @@ categories:
 <br/>
 <span style="color: blue">***Masqué ou non !***</span>
 <br/>
-<br/>
 ------
 &copy;  Grand Corps Malade & Camille Lellouche
