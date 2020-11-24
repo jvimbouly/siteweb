@@ -24,5 +24,5 @@ categories:
 <br>
 ---
 
-<span style="color: green">***I'm so far away !***</span>
+<span style="color: green">***I am so far away !***</span>
 <br/>
