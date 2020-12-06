@@ -8,7 +8,7 @@ categories:
 <span style="color: red">***Un modeste présent : un arbre, symbole de Noel, sous le chaud soleil de Saint Leu !***</span>
 
 
-![Flamboyant Décembre 2020]({{ site.url }}/img/flamboyant1.JPG)
+![Flamboyant Décembre 2020]({{ site.url }}/img/flamboyant11.jpg)
 
 ---
 
