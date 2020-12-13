@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2020-11-28 07:40:30 +0400
+date:   2020-12-13 06:44:30 +0400
 categories: 
 ---
 <!---
@@ -24,5 +24,5 @@ categories:
 <br>
 ---
 
-<span style="color: green">***... so far away from ... !***</span>
+<span style="color: green">***... forever and ever !***</span>
 <br/>
