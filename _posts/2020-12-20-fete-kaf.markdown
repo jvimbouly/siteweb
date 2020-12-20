@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "20 desamb"
+title:  "20 desamb - Fêt' Kaf"
 date:   2020-12-20 07:15:30 +0400
 categories: 
 ---
@@ -8,8 +8,8 @@ categories:
 <span style="color: red">***20 décembre 1848 : proclamation de l'abolition de l'esclavage à la Réunion***</span>
 
 <span style="color: red">***Aujourd'hui, c'est la Fêt KAF !***</span>
-
-<p>
+<br>
+<span style="color:blue">
 Zordi vin desamb la fêt kaf<br>
 Si la plas Sarda Garriga<br>
 Zordi néninn la parti<br>
@@ -21,7 +21,7 @@ Ek un gro larm dan lo zyé<br>
 In payaka si la têt'<br>
 Ek un gro larm dan lo zyé<br>
 ....
-</p>
+</span>
 Extrait "LA FET GRO NENINN" de Ziskakan (Album "20 Tan")
 
 
