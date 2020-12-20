@@ -9,7 +9,7 @@ categories:
 
 <span style="color: red">***Aujourd'hui, c'est la Fêt KAF !***</span>
 
-Zordi vin desamb la fêt kaf
+Zordi vin desamb la fêt kaf<br>
 Si la plas Sarda Garriga
 Zordi néninn la parti
 Pou alé artrouv' son zami
