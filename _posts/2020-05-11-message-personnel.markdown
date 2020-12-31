@@ -24,7 +24,7 @@ categories:
 <br>
 ---
 
-<span style="color: green">***L'ile de la Réunion privée de liberté par les autorités poour le réveillon du 31/12/2020. Hélico et force de l'ordre en nombre : tous les moyens sont déployés. Incomprehensible !***</span>
+<span style="color: red">***L'ile de la Réunion privée de liberté par les autorités pour le réveillon du 31/12/2020. Hélico et force de l'ordre en nombre : tous les moyens sont déployés. Incomprehensible !***</span>
 <br/>
 <span style="color: green">***Pour autant, il ne faut pas oublier le crépuscule de cette année !***</span>
 ![Coucher de soleil du 31/12/2020]({{ site.url }}/img/coucher.jpg)
