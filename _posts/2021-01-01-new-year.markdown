@@ -10,5 +10,5 @@ categories:
 <br>
 ![New Year 2021]({{ site.url }}/img/new-years-eve-5855218_640.png)
 
-Contribution : <a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Alexey Hulsov</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Pixabay</a>
+Contribution image libre : <a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Alexey Hulsov</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Pixabay</a>
 
