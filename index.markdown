@@ -12,5 +12,7 @@ Bienvenue sur ce site web qui constituera le support pour la formation en BTS Sy
 Sans oublier d'autres petites choses personnelles !
 
 Le format utilisé est celui du blog dans un style dépouillé, simple et direct.
-
+<!---
 [![Black Lives Matters]({{ site.url }}/img/blm.png)](https://blacklivesmatter.com/){:target="_blank" }
+--->
+![Happy New Year 2021]({{ site.url }}/img/new-year-5828055_640.png)
