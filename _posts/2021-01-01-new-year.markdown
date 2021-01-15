@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Happy New Year"
-date:   2021-01-01 04:15:30 +0400
+date:   2021-01-15 18:35:30 +0400
 categories: 
 ---
 
@@ -13,4 +13,6 @@ categories:
 Contribution image libre de droits : <a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Alexey Hulsov</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Pixabay</a>
 
 <br>
-<span style="color: blue">***Le vaccin pour peut être en finir avec la COVID-19 (et le masque) ?***</span>
+<span style="color: blue">***La vaccination contre la COVID-19 a débuté le 15/01/2021 à la Réunion***</span><br>
+<br>
+<span style="color: blue">***2021 : Lueur d'espoir au bout du tunnel (coronavirus, ...)***</span>
