@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Happy New Year"
-date:   2021-01-15 18:35:30 +0400
+date:   2021-01-17 05:16:30 +0400
 categories: 
 ---
 
@@ -15,4 +15,4 @@ Contribution image libre de droits : <a href="https://pixabay.com/fr/users/alexe
 <br>
 <span style="color: blue">***La vaccination contre la COVID-19 a débuté le 15/01/2021 à la Réunion.***</span><br>
 <br>
-<span style="color: blue">***2021 : Lueurs d'espoir au bout du tunnel (coronavirus, ...)***</span>
+<span style="color: green">***2021 : Lueurs d'espoir au bout du tunnel (coronavirus, mais pas seulement ! )***</span>
