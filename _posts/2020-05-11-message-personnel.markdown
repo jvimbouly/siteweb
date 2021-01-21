@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-01-13 06:05:30 +0400
+date:   2021-01-21 08:00:30 +0400
 categories: 
 ---
 
@@ -20,4 +20,4 @@ categories:
 <span style="color: green">***2021 : Année de tous les espoirs !***</span>
 <br>
 <br>
-<span style="color: green">***Après l'orage et les impacts de foudre (avec ses effets destructeurs), le soleil semble revenir. C'est quand même mieux ainsi !!!***</span>
+<span style="color: green">***It has been raining since yesterday and I am not chilled by this rain!***</span>
