@@ -15,6 +15,6 @@ Le format utilisé est celui du blog dans un style dépouillé, simple et direct
 <!---
 [![Black Lives Matters]({{ site.url }}/img/blm.png)](https://blacklivesmatter.com/){:target="_blank" }
 --->
-![Happy New Year 2021]({{ site.url }}/img/new-year-5828055_640.png)
+[![Happy New Year 2021]({{ site.url }}/img/new-year-5828055_640.png)](https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218){:target="_blank" }
 <br>
 Image libre de droits : <a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Alexey Hulsov</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218">Pixabay</a>
