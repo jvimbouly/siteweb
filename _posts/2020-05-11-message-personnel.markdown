@@ -20,4 +20,4 @@ categories:
 <span style="color: green">***2021 : Année de tous les espoirs !***</span>
 <br>
 <br>
-<span style="color: green">***It has been raining since yesterday and I am not chilled by this rain***</span>
+<span style="color: green">***It has been raining since yesterday afternoon and I am not chilled by this rain***</span>
