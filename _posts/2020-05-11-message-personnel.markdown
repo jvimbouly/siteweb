@@ -21,7 +21,6 @@ categories:
 <br>
 <br>
 <span style="color: green">***The sun is back***</span>
-<br>
 
 
 
