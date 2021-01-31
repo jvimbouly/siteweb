@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-01-24 08:22:30 +0400
+date:   2021-01-31 04:40:30 +0400
 categories: 
 ---
 
@@ -16,16 +16,9 @@ categories:
 <br>
 ---
 
-
-<span style="color: green">***2021 : Année de tous les espoirs !***</span>
 <br>
-<br>
-<span style="color: green">***The sun is back***</span>
-
-
-
+<span style="color: green">***lang="fr" : Je ne fais pas semblant et le message n'est pas crypté. Dans l'espoir d'avoir été très clair !***</span>
 <br/>
-<a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218"><span style="color:  #ff3349">***My words do not have the same power and the same scope as some of these pictures***</span></a>
-
-<br>
-<span style="color: green">***I am not a liar !!!***</span>
+<span style="color: green">***lang="en" : I try to transcribe my thoughts but the words are not strong enough !***</span>
+<br/>
+<a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218"><span style="color:  #ff3349">***Some pictures instead of words***</span></a>
