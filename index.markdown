@@ -8,7 +8,6 @@ layout: home
 
 Bienvenue sur ce site web qui constituera le support pour la formation en BTS Systèmes Numériques et en DUT Réseaux et Télécommunications. Présentation des technologies liées à l'électronique, l'informatique et les réseaux. Ah bon !
 <p>COVID-19 ne signifie pas COCO VIDE.</p>
-
 Sans oublier d'autres petites choses personnelles !
 
 Le format utilisé est celui du blog dans un style dépouillé, simple et direct.
