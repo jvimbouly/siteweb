@@ -6,7 +6,7 @@ layout: home
 ---
 <h1>Site Web Personnel de Joel VIMBOULY</h1>
 
-Bienvenue sur ce site web qui constituera le support pour la formation en BTS Systèmes Numériques et en DUT Réseaux et Télécommunications. Présentation des technologies liées à l'électronique, l'informatique et les réseaux.
+Bienvenue sur ce site web qui constituera le support pour la formation en BTS Systèmes Numériques et en DUT Réseaux et Télécommunications. Présentation des technologies liées à l'électronique, l'informatique et les réseaux. Ah bon !
 <p>COVID-19 ne signifie pas COCO VIDE.</p>
 
 Sans oublier d'autres petites choses personnelles !
@@ -15,7 +15,6 @@ Le format utilisé est celui du blog dans un style dépouillé, simple et direct
 <!---
 [![Black Lives Matters]({{ site.url }}/img/blm.png)](https://blacklivesmatter.com/){:target="_blank" }
 --->
-<br>
 <br/>
 <span style="color: #ff1aff">***Ok pour un sourire !***</span>
 ![Un sourire pour 2021]({{ site.url }}/img/smiley-1691280_1280.jpg)
