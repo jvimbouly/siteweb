@@ -15,6 +15,7 @@ Le format utilisé est celui du blog dans un style dépouillé, simple et direct
 <!---
 [![Black Lives Matters]({{ site.url }}/img/blm.png)](https://blacklivesmatter.com/){:target="_blank" }
 --->
+<span style="color: #ff1aff">***Ok pour un sourire !***</span>
 ![Un sourire pour 2021]({{ site.url }}/img/smiley-1691280_1280.jpg)
 <br>
 
