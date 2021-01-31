@@ -16,7 +16,7 @@ Le format utilisé est celui du blog dans un style dépouillé, simple et direct
 --->
 <br>
 <br/>
-<span style="color: #ff1aff">***Ok pour un sourire !***</span>
+<span style="color: #ff1aff">***Partant pour un sourire !***</span>
 ![Un sourire pour 2021]({{ site.url }}/img/smiley-1691280_1280.jpg)
 <br>
 
