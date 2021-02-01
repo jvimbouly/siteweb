@@ -23,4 +23,7 @@ categories:
 <span style="color: #ff531a">***I try to transcribe my thoughts but the words are not strong enough !***</span>
 <br/>
 <br>
+<!---
 <a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5855218" target="_blank"><span style="color:  #ff3349">***Some pictures instead of words***</span></a>
+--->
+<a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?tab=latest" target="_blank"><span style="color:  #ff3349">***Some pictures instead of words***</span></a>
