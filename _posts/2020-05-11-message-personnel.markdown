@@ -23,4 +23,4 @@ categories:
 <span style="color: #ff531a">***For some people, the grass is always greener on the other side !***</span>
 <br/>
 <br>
-<a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?tab=latest" target="_blank"><span style="color:  #ff3349">***Some pictures instead of words***</span></a>
+<a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?tab=latest" target="_blank"><span style="color:  #ff3349">***Des images à la place des mots***</span></a>
