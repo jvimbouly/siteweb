@@ -17,7 +17,7 @@ categories:
 ---
 
 <br>
-<span style="color: green">***Certains messages sont émis "en clair". Il faut espérer ne pas faire fausse route !***</span>
+<span style="color: green">***Certains messages sont émis "en clair". En espérant ne pas faire fausse route !***</span>
 <br/>
 <br>
 <span style="color: #ff531a">***For some people, the grass is always greener on the other side !***</span>
