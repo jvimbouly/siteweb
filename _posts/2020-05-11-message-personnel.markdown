@@ -18,8 +18,8 @@ categories:
 
 <br>
 <span style="color: green">***Certains messages sont émis "en clair". En espérant ne pas faire fausse route mais peu importe finalement !***</span>
-<br/>
 
+<br>
 <span style="color: green">***I will find time !***</span>
 
 <br>
