@@ -19,7 +19,9 @@ categories:
 <br>
 <span style="color: green">***Certains messages sont émis "en clair". En espérant ne pas faire fausse route mais peu importe finalement !***</span>
 <br/>
+
 <span style="color: green">***I will find time !***</span>
+
 <br>
 <span style="color: #ff531a">***Only positive things here and No cry !***</span>
 <br/>
