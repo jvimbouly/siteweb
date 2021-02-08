@@ -20,10 +20,10 @@ Le format utilisé est celui du blog dans un style dépouillé, simple et direct
 <span style="color: #ff1aff">***Partant pour un sourire !***</span>
 ![Un sourire pour 2021]({{ site.url }}/img/smiley-1691280_1280.jpg)
 --->
-<span style="color: #ff1aff">***Partant pour un sourire !***</span>
+<span style="color: #ff1aff">***Partant pour un sourire de Saint Leu !***</span>
 ![Un sourire pour 2021]({{ site.url }}/img/Smile/ball-1845546_1280.jpg)
 <br>
 <!---
 Image libre de droits : <a href="https://pixabay.com/fr/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1691280">Gerd Altmann</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1691280">Pixabay</a>
 --->
-Image libre de droits<a href="https://pixabay.com/fr/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1845546">Pexels</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1845546">Pixabay</a>
+Image libre de droits : <a href="https://pixabay.com/fr/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1845546">Pexels</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1845546">Pixabay</a>
