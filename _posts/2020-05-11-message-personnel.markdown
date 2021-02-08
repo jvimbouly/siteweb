@@ -24,6 +24,6 @@ categories:
 
 <br>
 <span style="color: #ff531a">***Only positive things here and No cry !***</span>
-<br/>
+
 <br>
 <a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?tab=latest" target="_blank"><span style="color:  #ff3349">***Des images à la place des mots***</span></a>
