@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-02-08 11:13:30 +0400
+date:   2021-02-12 04:22:30 +0400
 categories: 
 ---
 
@@ -17,13 +17,7 @@ categories:
 ---
 
 <br>
-<span style="color: green">***Certains messages sont émis "en clair". En espérant ne pas faire fausse route mais peu importe finalement !***</span>
-
-<br>
-<span style="color: green">***I will find time !***</span>
-
-<br>
-<span style="color: #ff531a">***Only positive things here and No cry !***</span>
+<span style="color: green">***Je reste positif (cela n'a rien à voir avec le coronavirus) et je suis plein d'espoir !***</span>
 
 <br>
 <a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?tab=latest" target="_blank"><span style="color:  #ff3349">***Des images à la place des mots***</span></a>
