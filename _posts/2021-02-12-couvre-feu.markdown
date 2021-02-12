@@ -43,5 +43,5 @@ Kom sa mi peu alé travail' !
 
 Y fo croire un kouyonisse kom sa !
 
-Si i continué kom sa, mi rent Sin Denis !
+Si i continué kom sa, mi rent' Sin Denis !
 
