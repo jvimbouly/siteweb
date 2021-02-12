@@ -42,3 +42,6 @@ Heureusement zot y sa va reposé gran matin 5h00.
 Kom sa mi peu alé travail' !
 
 Y fo croire un kouyonisse kom sa !
+
+Si i continué kom sa, mi rent Sin Denis !
+
