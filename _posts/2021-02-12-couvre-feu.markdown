@@ -47,5 +47,5 @@ Y fo croire un kouyonisse pareil !
 
 ![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
 
-
+Merci à <a href="https://pixabay.com/fr/users/alexandra_koch-621802/?tab=popular" target="_blank"><span style="color:  #ff3349">***Alexandra***</span></a>  pour cette image libre de droits.
 
