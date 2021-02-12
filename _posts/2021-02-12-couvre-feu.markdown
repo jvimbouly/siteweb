@@ -34,8 +34,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 Sin Leu, lé pu in ti kartié tranquil ! lé fini sa !
-COVID-19 ek son band' dalons VARIANT i fé la fêt' à partir 10h00 d'soir. Zot i donn' lo grain dann' Sin Leu la nuit'. 
+
+COVID-19 ek son band' dalons VARIANT i fé la fêt' à partir 10h00 d'soir. Zot i donn' lo grain dann' Sin Leu la nuit'.
+
 Heureusement zot y sa va reposé gran matin 5h00.
+
 Kom sa mi peu alé travail' !
+
 Y fo croire un kouyonisse kom sa !
 
