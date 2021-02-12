@@ -31,7 +31,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 --->
-
+{% highlight %}
 
 Sin Leu, lé pu in ti kartié tranquil ! lé fini sa !
 
@@ -43,3 +43,4 @@ Kom sa mi peu alé travail' !
 
 Y fo croire un kouyonisse kom sa !
 
+{% endhighlight %}
