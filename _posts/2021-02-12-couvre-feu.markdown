@@ -45,3 +45,7 @@ Y fo croire un kouyonisse pareil !
 
 Si i continué kom sa, mi rent' Sin Denis !
 
+![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
+
+
+
