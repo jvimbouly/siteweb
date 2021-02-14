@@ -21,7 +21,7 @@ categories:
 
 <span style="color: #ff3333">Cette journée est particulière (pour ne pas dire singulière) pour un certain nombre de personnes et mais laisse aussi indifférents les autres !</span>
 
-<span style="color: #ff3333">Pour ma part, je vais faire un aveu : `cela fait très mal ou c'est très dur, cela dépand !`</span>
+<span style="color: #ff3333">Pour ma part, je vais faire un aveu : `cela fait très mal ou c'est très dur, cela dépend !`</span>
 
 <span style="color: #ff3333">`Pas la peine d'en dire plus !`</span>
 
