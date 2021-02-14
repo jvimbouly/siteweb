@@ -17,10 +17,10 @@ categories:
 ---
 
 <br>
-<span style="color: #ff3333">***`Bonne journée à toutes celles et ceux qui profiteront de ce dimanche ensoleillé pour être auprès de leur Valentin(e) !`
-`Cette journée est particulière (pour ne pas dire singulière) pour un certain nombre de personnes et mais laisse aussi indifférents les autres !`
-`Pour ma part, je vais faire un aveu : cela fait très mal !`
+<span style="color: #ff3333">***Bonne journée à toutes celles et ceux qui profiteront de ce dimanche ensoleillé pour être auprès de leur Valentin(e) !
+Cette journée est particulière (pour ne pas dire singulière) pour un certain nombre de personnes et mais laisse aussi indifférents les autres !
+Pour ma part, je vais faire un aveu : cela fait très mal !
 `Pas la peine d'en dire plus !`***</span>
 
 <br>
-<a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?tab=latest" target="_blank"><span style="color:  #33ff7d">***Certaines images s'exprimeront à ma place***</span></a>
+<a href="https://pixabay.com/fr/users/alexey_hulsov-388655/?tab=latest" target="_blank"><span style="color:  #4933ff">***Certaines images s'exprimeront à ma place***</span></a>
