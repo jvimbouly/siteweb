@@ -19,7 +19,9 @@ categories:
 <br>
 <span style="color: #ff3333">***Bonne journée à toutes celles et ceux qui profiteront de ce dimanche ensoleillé pour être auprès de leur Valentin(e) !
 Cette journée est particulière (pour ne pas dire singulière) pour un certain nombre de personnes et mais laisse aussi indifférents les autres !
+
 Pour ma part, je vais faire un aveu : cela fait très mal !
+
 `Pas la peine d'en dire plus !`***</span>
 
 <br>
