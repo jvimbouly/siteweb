@@ -17,4 +17,4 @@ categories:
 ---
 
 <br>
-<span style="color: #ff3333">`"semaine" du 09 au 14 février : vraiment pas terrible => à oublier !`</span>
+<span style="color: #ff3333">`"semaine" du 09 au 14 février : vraiment pas terrible => à oublier au plus vite !`</span>
