@@ -22,4 +22,4 @@ categories:
 <br>
 ![Don't Give Up]({{ site.url }}/img/Smile/rosie-kerr-Gz0PxBYPfs8-unsplash_L.jpg)
 
-<span>Merci à <a href="https://unsplash.com/@rosiekerr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Rosie Kerr</a> on <a href="https://unsplash.com/@rosiekerr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash - Libre de droits</a></span>
+<span>Merci à <a href="https://unsplash.com/@rosiekerr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" >Rosie Kerr</a> sur <a href="https://unsplash.com/@rosiekerr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Unsplash - Image libre de droits</a></span>
