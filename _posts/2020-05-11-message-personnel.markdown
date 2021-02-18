@@ -17,4 +17,7 @@ categories:
 ---
 
 <br>
-<span style="color: #ff3333">`"semaine" du 09 au 14 février : vraiment pas terrible => à oublier au plus vite !`</span>
+<span style="color: #ff3333">`I feel like I broke my prmise and now, I don't give up !`</span>
+
+<br>
+![Don't Give Up]({{ site.url }}/img/Smile/rosie-kerr-Gz0PxBYPfs8-unsplash_L.jpg)
