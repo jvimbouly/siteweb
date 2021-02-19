@@ -17,7 +17,7 @@ categories:
 ---
 
 <br>
-<span style="color: #3f33ff">`I feel like I broke my promise and now, I **won't** give up !`</span>
+<span style="color: #3f33ff">`I feel like I broke my promise and now, I won't give up !`</span>
 
 <br>
 ![Don't Give Up]({{ site.url }}/img/Smile/rosie-kerr-Gz0PxBYPfs8-unsplash_L.jpg)
