@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-02-19 04:01:30 +0400
+date:   2021-02-21 04:01:30 +0400
 categories: 
 ---
 
@@ -15,9 +15,9 @@ categories:
 
 <br>
 ---
-
 <br>
-<span style="color: #3f33ff">`I feel like I broke my promise and now, I won't give up !`</span>
+<span style="color: #3f33ff">`Il y a des moments plus durs que d'autres. A quoi bon le nier !`</span>
+
 
 <br>
 ![Don't Give Up]({{ site.url }}/img/Smile/rosie-kerr-Gz0PxBYPfs8-unsplash_L.jpg)
