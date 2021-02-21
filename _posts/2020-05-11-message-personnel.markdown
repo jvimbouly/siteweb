@@ -16,7 +16,7 @@ categories:
 <br>
 ---
 <br>
-<span style="color: #3f33ff">`Il y a des moments plus durs que d'autres. A quoi bon le nier !`</span>
+<span style="color: #3f33ff">`Il y a des moments plus difficiles que d'autres. A quoi bon le nier !`</span>
 
 
 <br>
