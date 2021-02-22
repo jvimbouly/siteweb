@@ -16,9 +16,10 @@ categories:
 <br>
 ---
 <br>
-<span style="color: blue">***Il y a quelque chose d'immuable. Me concernant, je sais que c'est très fort et très profond !***</span>
+<span style="color: blue">***Il y a quelque chose d'immuable.</span>
+<span style="color: blue">***Me concernant, je sais que c'est très fort et très profond !***</span>
 
-
+<br/>
 <span style="color: red">`Faut-il encore le prouver ?`</span>
 
 <!---
