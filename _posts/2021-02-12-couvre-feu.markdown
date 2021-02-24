@@ -33,17 +33,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Sin Leu, lé pu in ti kartié tranquil ! lé fini sa !
+Nout' tout' lé dann' mêm bato ester !
 
-COVID-19 ek son band' dalons VARIANT i fé la fêt' à partir de 10h00 d'soir. Zot i donn' lo grain dann' kartié 3 let' tout' la nuit'.
+Un boto fou largué dans la pandémie Coronavirus. ki sa y control sa ?
 
-Heureusement zot y sa va reposé gran matin 5h00.
+Couvre-feu de 22h00 à 5h00 d'matin : COVID-19 ek son bann dalon variant lé conten, la Reunion lé pou zot tou seul !
 
-Kom sa mi peu alé travail' !
 
-Y fo croire un kouyonisse pareil !
-
-`Si i continué kom sa, mi rent' Sin Denis !`
+`Malgré sa, Sin Denis y manque à mwen. Non, en fait', mi pense pluto que na un z'affair su Sin denis y manque à mwen. Mais c'est beaucoup plus' qu'un z'affair y manque à mwen !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
 
