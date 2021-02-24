@@ -40,7 +40,7 @@ Un boto fou largué dans la pandémie Coronavirus. ki sa y control sa ?
 Couvre-feu de 22h00 à 5h00 d'matin : COVID-19 ek son bann dalon variant lé conten, la Reunion lé pou zot tou seul !
 
 
-`Malgré sa, Sin Denis y manque à mwen. Non, en fait', mi pense pluto que na un z'affair su Sin denis y manque à mwen. Mais c'est beaucoup plus' qu'un z'affair y manque à mwen !`
+`Malgré sa, Sin Denis y manque à mwen. Non, en fait', mi pense pluto que na un z'affair su Sin denis y manque à mwen. Mais c'est bien  plus' qu'un z'affair y manque à mwen !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
 
