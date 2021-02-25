@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perseverance"
-date:   2021-02-20 06:26:30 +0400
+date:   2021-02-25 11:08:30 +0400
 categories: 
 ---
 
@@ -9,11 +9,11 @@ categories:
 <span style="color: red">***Le rover Perseverance a pu atterir sur la Planète rouge la semaine dernière.***</span>
 <br>
 
-<span><a href="https://www.nasa.gov/perseverance" target="_blank">Voici les images de la NASA</a></span>
+<span><a href="https://www.nasa.gov/perseverance" target="_blank">Voici les dernières images de la NASA</a></span>
 <br/>
 ---
 <br/>
-<span style="color: red">***Perseverance est à la recherche d'une vie extra-terrestre !***</span>
+<span style="color: red">***Perseverance dans la recherche d'une vie extra-terrestre !***</span>
 
 
 

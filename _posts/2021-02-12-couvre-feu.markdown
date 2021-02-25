@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Couvre-feu Saint Leu"
-date:   2021-02-24 21:05:30 +0400
+title:  "Couvre-feu sur toute l'île"
+date:   2021-02-25 11:09:30 +0400
 categories: 
 ---
 <!---
@@ -37,10 +37,10 @@ Nout' tout' lé dann' mêm bato ester !
 
 Un boto fou largué dan la pandémie Coronavirus. ki sa y control sa ?
 
-Couvre-feu de 22h00 à 5h00 d'matin : COVID-19 ek son bann dalon variant lé conten, la Reunion lé pou zot tou seul !
+Couvre-feu de 22h00 à 5h00 d'matin : COVID-19 ek son bann dalons Variant (nana y sort loin) lé conten, la Reunion lé pou zot tou seul !
 
 
-`Malgré sa, Sin Denis y manque à mwen. Non, en fait', mi pense pluto que na un z'affair su Sin Denis y manque à mwen. Mais c'est bien  plus' qu'un z'affair y manque à mwen !`
+`Malgré sa, Sin Denis y manque à mwen. Non, en fait', mi pense pluto que na un z'affair su Sin Denis y manque à mwen. Mais sé bien plus' qu'un z'affair y manque à mwen tellement !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
 
