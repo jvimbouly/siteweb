@@ -6,7 +6,7 @@ categories:
 ---
 
 
-<span style="color: red">***Le rover Perseverance a pu atterir sur la Planète rouge cette semaine.***</span>
+<span style="color: red">***Le rover Perseverance a pu atterir sur la Planète rouge la semaine dernière.***</span>
 <br>
 
 <span><a href="https://www.nasa.gov/perseverance" target="_blank">Voici les images de la NASA</a></span>
