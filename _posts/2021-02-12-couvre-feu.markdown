@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Nout' tout' lé dann' mêm bato ester !
 
-Un boto fou largué dan la pandémie Coronavirus. ki sa y control sa ?
+Un boto fou largué dan la pandémie Coronavirus. Ki sa y control sa ?
 
 Couvre-feu de 22h00 à 5h00 d'matin : COVID-19 ek son bann dalons Variant (nana y sort loin) lé conten, la Reunion lé pou zot tou seul !
 
