@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute l'île"
-date:   2021-02-25 11:09:30 +0400
+date:   2021-02-26 18:16:30 +0400
 categories: 
 ---
 <!---
@@ -33,14 +33,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Nout' tout' lé dann' mêm bato ester !
+Bon dié la kozé, le bato y res' pareil et nou : nou kontinyé res kouyon ! 
 
-Un boto fou largué dan la pandémie Coronavirus. Ki sa y control sa ?
-
-Couvre-feu de 22h00 à 5h00 d'matin : COVID-19 ek son bann dalons Variant (nana y sort loin) lé conten, la Reunion lé pou zot tou seul !
+Couvre-feu depui 22h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé conten, la Reunion lé pou zot tou seul !
 
 
-`Malgré sa, Sin Denis y manque à mwen. Non, en fait', mi pense pluto que na un z'affair su Sin Denis y manque à mwen. Mais sé bien plus' qu'un z'affair y manque à mwen !`
+`Malgré sa, Sin Denis y manque à mwen. Pou koz sérieu, na dir' que na un z'affair su Sin Denis y manque a mwen. Mé, mi gagn' pa expliqué koman sa y manque a mwen !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
 
