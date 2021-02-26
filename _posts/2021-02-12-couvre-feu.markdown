@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Bon dié la kozé, le bato y res' pareil et nou : nou kontinyé res kouyon ! 
 
-Couvre-feu depui 22h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé conten, la Reunion lé pou zot tou seul !
+Couvre-feu depui 22h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé conten, la Reunion lé pou zot tou seul. Fé pété !
 
 
 `Malgré sa, Sin Denis y manque à mwen. Pou koz sérieu, na dir' que na un z'affair su Sin Denis y manque a mwen. Mé, sé plus' qu'un z'affair y manque a mwen et mi gagn' pa expliqué koman sa y manque a mwen !`
