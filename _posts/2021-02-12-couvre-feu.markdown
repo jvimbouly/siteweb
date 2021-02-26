@@ -38,7 +38,7 @@ Bon dié la kozé, le bato y res' pareil et nou : nou kontinyé res kouyon !
 Couvre-feu depui 22h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé conten, la Reunion lé pou zot tou seul !
 
 
-`Malgré sa, Sin Denis y manque à mwen. Pou koz sérieu, na dir' que na un z'affair su Sin Denis y manque a mwen. Mé, sé plus' qu'un z'affair y manque à mwen et mi gagn' pa expliqué koman sa y manque a mwen !`
+`Malgré sa, Sin Denis y manque à mwen. Pou koz sérieu, na dir' que na un z'affair su Sin Denis y manque a mwen. Mé, sé plus' qu'un z'affair y manque à mwen et mi gagn' pa expliqué koman sa y manque a mwen ! la, y fo dir' : cé mwem lé kouyon !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
 
