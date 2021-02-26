@@ -40,7 +40,7 @@ Couvre-feu depui 22h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Varia
 
 `Malgré sa, Sin Denis y manque à mwen. Pou koz sérieu, na dir' que na un z'affair su Sin Denis y manque a mwen. Mé, sé plus' qu'un z'affair y manque à mwen et mi gagn' pa expliqué koman sa y manque a mwen ! alor la, y fo dir' : cé mwem lé kouyon !`
 
-![COVID-19]({{ site.url }}/img/covid/virus-5935583_640.png)
+![COVID-19]({{ site.url }}/img/covid/corona-6041591_640.jpg)
 
 Merci à <a href="https://pixabay.com/fr/users/alexandra_koch-621802/?tab=popular" target="_blank"><span style="color:  #ff3349">***Alexandra***</span></a>  pour cette image libre de droits.
 
