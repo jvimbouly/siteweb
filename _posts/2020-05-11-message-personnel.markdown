@@ -15,9 +15,7 @@ categories:
 
 <br>
 ---
-<!---
-<span style="color: blue">***Fortes pensées !***</span>
---->
+<span style="color: blue">***La pensée du jour, comme si il n'y avait qu'un seul jour !***</span>
 
 ![Rose and Work]({{ site.url }}/img/Smile/annie-spratt-fDghTk7Typw-unsplash_L.jpg)
 
