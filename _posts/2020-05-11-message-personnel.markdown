@@ -16,8 +16,9 @@ categories:
 <br>
 ---
 <br>
+<!---
 <span style="color: blue">***Fortes pensées !***</span>
-
+--->
 
 <br>
 ![Rose and Work]({{ site.url }}/img/Smile/annie-spratt-fDghTk7Typw-unsplash_L.jpg)
