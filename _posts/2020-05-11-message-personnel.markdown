@@ -15,12 +15,10 @@ categories:
 
 <br>
 ---
-<br>
 <!---
 <span style="color: blue">***Fortes pensées !***</span>
 --->
 
-<br>
 ![Rose and Work]({{ site.url }}/img/Smile/annie-spratt-fDghTk7Typw-unsplash_L.jpg)
 
 <span>Merci à <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" >Annie Spratt</a> sur <a href="https://unsplash.com/" target="_blank">Unsplash - Images libres de droits</a></span>
