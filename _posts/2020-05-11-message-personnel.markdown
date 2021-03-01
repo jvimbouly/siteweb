@@ -15,7 +15,7 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***Mes pensées ne sont ni dispersées, ni éparpillées. Elles sont concentrées dans une direction !***</span>
+<span style="color: blue">***Mes pensées ne sont ni dispersées, ni éparpillées. Elles sont concentrées dans une seule direction !***</span>
 
 ![Rose and Work]({{ site.url }}/img/Smile/annie-spratt-fDghTk7Typw-unsplash_L.jpg)
 
