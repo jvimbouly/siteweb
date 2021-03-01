@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-02-28 04:12:30 +0400
+date:   2021-03-01 05:23:30 +0400
 categories: 
 ---
 
@@ -15,7 +15,7 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***Mes pensées ne sont pas dispersées !***</span>
+<span style="color: blue">***Mes pensées ne sont ni dispersées, ni éparpillées. Elles sont concentrées dans une direction !***</span>
 
 ![Rose and Work]({{ site.url }}/img/Smile/annie-spratt-fDghTk7Typw-unsplash_L.jpg)
 
