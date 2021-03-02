@@ -38,7 +38,7 @@ A koz, zot la pa met' a nou en konfineman (Lockdown) ? Mi té zot, mi té kontin
 Couvre-feu depui 18h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé plus' que kontan, la Reunion y appartient a zot. Fé pété (na un bann' marmaill' la pas compris : fé pété lé pa pou zot !)
 
 
-`Malgré sa, y manque a mwen toujours. Oui, toujours... ! Le res' lé pa importan !`
+`Malgré sa, y manque a mwen toujours. Oui, toujours... ! Le rest' lé pa importan !`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
