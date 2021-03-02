@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-02-27 04:01:30 +0400
+date:   2021-03-02 19:00:30 +0400
 categories: 
 ---
 <!---
@@ -33,12 +33,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Bon dié la kozé, le bato y res' pareil et nou : nou kontinyé res kouyon ! 
+A koz, zot la pa met' a nou en Konfinem ? Mi té zot, mi té kontinué defend' do moun viv' ! COVID-19 y trap' la nuit seulemen sa alors ! 
 
-Couvre-feu depui 22h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé conten, la Reunion lé pou zot tou seul. Fé pété !
+Couvre-feu depui 18h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé plus' que conten, la Reunion i appartient a zot. Fé pété (na un bann' marmaill' la pas compris : fé pété lé pa pou zot !)
 
 
-`Malgré sa, Sin Denis y manque à mwen. Pou koz sérieu, na dir' que na un z'affair su Sin Denis y manque a mwen. Mé, sé plus' qu'un z'affair y manque a mwen et mi gagn' pa expliqué a kel poin sa y manque a mwen !`
+`Malgré sa, y manque à mwen toujours. Toujours ... !`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 

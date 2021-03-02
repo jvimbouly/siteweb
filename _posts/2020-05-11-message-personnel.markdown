@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-03-01 05:23:30 +0400
+date:   2021-03-02 19:01:30 +0400
 categories: 
 ---
 
@@ -15,9 +15,8 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***Mes pensées ne sont ni dispersées, ni éparpillées. Elles sont concentrées sur une seule direction !***</span>
+<span style="color: blue">***A des barrières déjà très hautes, viennent s'ajouter de nouveaux obstacles !***</span>
 
-![Rose and Work]({{ site.url }}/img/Smile/annie-spratt-fDghTk7Typw-unsplash_L.jpg)
+![Rose and Work]({{ site.url }}/img/covid/mika-baumeister-JZq0Q5c1ZrI-unsplash_L.jpg)
 
-<span>Merci à <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" >Annie Spratt</a> sur <a href="https://unsplash.com/" target="_blank">Unsplash - Images libres de droits</a></span>
-
+<span>Merci à <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" >Mika Baumeister</a> sur <a href="https://unsplash.com/" target="_blank">Unsplash - Images libres de droits</a></span>
