@@ -35,10 +35,10 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 A koz, zot la pa met' a nou en konfineman (Lockdown) ? Mi té zot, mi té kontinué defend' do moun viv' ! COVID-19 y trap' la nuit seulemen sa alors ! 
 
-Couvre-feu depui 18h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé plus' que konten, la Reunion y appartient a zot. Fé pété (na un bann' marmaill' la pas compris : fé pété lé pa pou zot !)
+Couvre-feu depui 18h00 ziska 5h00 gran matin : COVID-19 ek son bann dalons Variant lé plus' que kontan, la Reunion y appartient a zot. Fé pété (na un bann' marmaill' la pas compris : fé pété lé pa pou zot !)
 
 
-`Malgré sa, y manque à mwen toujours. Oui, toujours ... ! Tou le res' lé pa importan !`
+`Malgré sa, y manque à mwen toujours. Oui, toujours ... ! Le res' lé pa importan !`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
