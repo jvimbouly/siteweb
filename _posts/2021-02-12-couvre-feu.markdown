@@ -33,7 +33,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Zot la decid' met' a nou en konfineman ("Lockdown") aprè 18h00 ! lé bon alor, ma res' enfermé !
+Zot la decid' met' a nou en konfineman ("Lockdown") aprè 18h00 ! Lé bon alor, ma res' enfermé. Mi bouge pu ester ! 
 
 Couvre-feu depui 18h00 ziska 5h00 gran matin : COVID-19 ek dalons Variant lé en l'air. Mi esper pou zot y fera pa tro pété !
 
