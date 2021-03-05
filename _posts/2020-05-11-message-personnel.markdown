@@ -19,6 +19,6 @@ categories:
 
 ![Rose and Work]({{ site.url }}/img/covid/mika-baumeister-JZq0Q5c1ZrI-unsplash_L.jpg)
 
-<span style="color: red">***My heart has been unlocked ! Someone had got the Key !***</span>
+<span style="color: red">***My heart has been unlocked. Someone had got the Key !***</span>
 
 <span>Merci à <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" >Mika Baumeister</a> sur <a href="https://unsplash.com/" target="_blank">Unsplash - Images libres de droits</a></span>
