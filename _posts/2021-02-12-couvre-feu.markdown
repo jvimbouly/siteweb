@@ -38,7 +38,7 @@ Zot la decid' met' a nou en konfineman ("Lockdown") aprè 18h00 ! lé bon alor, 
 Couvre-feu depui 18h00 ziska 5h00 gran matin : COVID-19 ek dalons Variant lé en l'air. Mi esper pou zot y fera pa tro pété !
 
 
-`Malgré sa, y manque a mwin toujours. Oui, la y manque a mwin vraimen ! Mé, Na lontan y manque a mwin ! Le rest' lé pa importan !`
+`Malgré sa, y manque a mwin toujours. Oui, la y manque a mwin vraimen ! Mé, Na lontan y manque a mwin !`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
