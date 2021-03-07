@@ -17,12 +17,13 @@ categories:
 
 <span><a href="https://www.nasa.gov/sites/default/files/thumbnails/image/pia2464-mastcam-zs_first_360-degree_panorama2.jpg" target="_blank">Vue panoramique fixe !</a></span><br>
 
+<span style="color: green">***On peut suivre des yeux, par ici !***</span>
 <iframe src='https://mars.nasa.gov/layout/embed/image/mars-panorama/?id=25674' width='100%' height='400' scrolling='no' frameborder='0' allowfullscreen></iframe>
 ---
 <br/><br>
 <span style="color: blue">***Perseverance dans la recherche d'une vie extra-terrestre !***</span>
 
-<span style="color: green">***On finira par la trouver, C'est pas possible !***</span>
+<span style="color: green">***On finira par la trouver, c'est pas possible !***</span>
 
 
 
