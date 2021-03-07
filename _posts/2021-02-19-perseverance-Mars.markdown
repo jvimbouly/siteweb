@@ -15,7 +15,7 @@ categories:
 <br/>
 <span style="color: blue">***Perseverance dans la recherche d'une vie extra-terrestre !***</span>
 
-<span style="color: green">***On finira par la trouver quand même ! Je n'attends que ça !***</span>
+<span style="color: green">***On finira par la trouver quand même ! D'ailleurs, je n'attends que ça !***</span>
 
 
 
