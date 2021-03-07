@@ -6,7 +6,7 @@ categories:
 ---
 
 
-<span style="color: red">***Le rover Perseverance est sur la Planète rouge (16 "Sols").***</span>
+<span style="color: red">***Le rover Perseverance est sur la Planète rouge (16 "Sols ou Mars Solar Days").***</span>
 <br>
 
 <!---
@@ -16,6 +16,8 @@ categories:
 <br/><br>
 
 <span><a href="https://www.nasa.gov/sites/default/files/thumbnails/image/pia2464-mastcam-zs_first_360-degree_panorama2.jpg" target="_blank">Vue panoramique fixe !</a></span><br>
+
+<iframe src='https://mars.nasa.gov/layout/embed/image/mars-panorama/?id=25674' width='100%' height='400' scrolling='no' frameborder='0' allowfullscreen></iframe>
 ---
 <br/><br>
 <span style="color: red">***Perseverance dans la recherche d'une vie extra-terrestre !***</span>
