@@ -10,7 +10,7 @@ categories:
 
 <span><a href="https://mars.nasa.gov/mars2020/" target="_blank">TAKE A LOOK HERE</a></span>
 <br/><br>
-<span style="color: green">***On peut piloter le champ de vision d'une vue panoramique ici :***</span>
+<span style="color: green">***On peut piloter le champ de vision de la vue panoramique en haut à droite de l'image suivante (avec zoom en bonus !) :***</span>
 <iframe src='https://mars.nasa.gov/layout/embed/image/mars-panorama/?id=25674' width='100%' height='400' scrolling='no' frameborder='0' allowfullscreen></iframe>
 ---
 <br/>
