@@ -4,7 +4,6 @@ title:  "Perseverance"
 date:   2021-03-07 07:02:30 +0400
 categories: 
 ---
-
 <span style="color: red">***Le rover Perseverance est sur la Planète rouge (depuis 16 "Sols ou Mars Solar Days").***</span>
 <br>
 
