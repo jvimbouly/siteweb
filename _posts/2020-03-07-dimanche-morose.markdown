@@ -5,7 +5,7 @@ date:   2021-03-07 13:10:30 +0400
 categories: 
 ---
 
-<span style="color: blue">***Pour égayer cette journée plus que morose et pluvieuse (même si cela peut paraitre "insignifiant") :***</span>
+<span style="color: blue">***Pour égayer cette journée plus que morose et pluvieuse (même si cela peut paraitre insignifiant) :***</span>
 
 ![Roses]({{ site.url }}/img/Smile/jessie-daniella-QLuleNy8LMM-unsplash_L.jpg)
 
