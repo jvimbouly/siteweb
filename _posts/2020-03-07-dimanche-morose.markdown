@@ -5,7 +5,7 @@ date:   2021-03-08 08:10:30 +0400
 categories: 
 ---
 
-<span style="color: blue">***Prolongation : En espérant que les pétales ne sont pas encore fanées !***</span>
+<span style="color: blue">***Prolongation : En espérant que les pétales ne sont pas encore fanées. Enjoy your day !***</span>
 
 ![Roses]({{ site.url }}/img/Smile/jessie-daniella-QLuleNy8LMM-unsplash_L.jpg)
 
