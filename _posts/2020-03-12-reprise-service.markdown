@@ -7,4 +7,6 @@ categories:
 
 <span style="color: green">***La reprise sera progressive : Recovery in progress !***</span>
 
-<span style="color: green">***Très mauvaise semaine !***</span>
+<span style="color: red">***Très mauvaise semaine !***</span>
+
+<span style="color: blue">***Mais je suis encore là !***</span>
