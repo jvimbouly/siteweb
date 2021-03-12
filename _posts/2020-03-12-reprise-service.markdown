@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reprise progressive"
-date:   2021-03-12 18:21:30 +0400
+date:   2021-03-12 10:21:30 +0400
 categories: 
 ---
 
