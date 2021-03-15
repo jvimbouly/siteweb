@@ -15,7 +15,7 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***La semaine dernière n'a pas été simple mais rien ne semble en mesure de m'arrêter !***</span>
+<span style="color: blue">***La semaine dernière n'a pas été simple mais rien ne semble être en mesure de m'arrêter !***</span>
 
 <span style="color: green">***Dans l'espoir de pouvoir écrire une nouvelle page. Have a nice day !***</span>
 
