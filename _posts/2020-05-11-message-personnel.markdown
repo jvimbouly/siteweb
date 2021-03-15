@@ -17,7 +17,7 @@ categories:
 ---
 <span style="color: blue">***La semaine dernière n'a pas été simple mais rien ne semble en mesure de m'arrêter !***</span>
 
-<span style="color: blue">***Dans l'espoir de pouvoir écrire une nouvelle page. Have a nice day !***</span>
+<span style="color: green">***Dans l'espoir de pouvoir écrire une nouvelle page. Have a nice day !***</span>
 
 ![Rose and Paper]({{ site.url }}/img/Smile/alina-snepste-Y82Ju2iLbDI-unsplash_L.jpg)
 
