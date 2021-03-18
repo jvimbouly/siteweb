@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-03-05 12:00:30 +0400
+date:   2021-03-18 18:25:30 +0400
 categories: 
 ---
 <!---
@@ -33,12 +33,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Zot la decid' met' a nou en konfineman ("Lockdown") aprè 18h00 ! Lé bon alor, ma res' enfermé. Mi bouge pu ester ! 
+Bon dié y koz en douce ester : Couvre-feu y continué. Apré 6h00 le soir, mi lé bloqué !  
 
-Couvre-feu depui 18h00 ziska 5h00 gran matin : COVID-19 ek dalons Variant lé en l'air. Mi esper pou zot y fera pa tro pété !
+Band' Variant y fé la fèt' tout' la nuit. Sa lé pa bon pou deu troi moun si y trouv' a zot !
 
 
-`Malgré sa, y manque a mwin toujours. Oui, la y manque a mwin vraimen ! Mé, Na lontan y manque a mwin !`
+`Malgré sa, y manque a mwin mème !`
+
+`Ou peu essaye embar' la mer. Mé in jour, na in lame plus fort y arriv' et li kass tout' !`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
