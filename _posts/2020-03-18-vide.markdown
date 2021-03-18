@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Vide"
+date:   2021-03-18 06:17:30 +0400
+categories: 
+---
+
+<span style="color: green">***Il y a un vide ... !***</span>
