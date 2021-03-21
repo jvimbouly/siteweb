@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-03-15 06:35:30 +0400
+date:   2021-03-21 04:50:30 +0400
 categories: 
 ---
 
@@ -15,4 +15,4 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***Le travail reprendra le 22 Mars. Mais, là n'est pas l'essentiel !***</span>
+<span style="color: blue">***Le travail reprendra demain. Mais, là n'est pas l'essentiel !***</span>
