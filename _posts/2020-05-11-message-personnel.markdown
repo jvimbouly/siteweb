@@ -15,6 +15,4 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***I keep working but ...***</span>
-
-<span style="color: red">***It's not easy !***</span>
+<span style="color: blue">***Le temps est maussade et il faut un peu de soleil pour rechauffer les coeurs ...***</span>

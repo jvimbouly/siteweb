@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-03-19 05:55:30 +0400
+date:   2021-03-27 18:00:30 +0400
 categories: 
 ---
 <!---
@@ -33,16 +33,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Bon dié y koz en douce ester : Couvre-feu y continué. Apré 6h00 le soir, mi lé bloqué !  
+Couvre-feu y continué !
 
-Band' Variant y fé la fèt' tout' la nuit. Sa lé pa bon pou deu troi moun si y trouv' a zot !
+`Couvre-feu ek le temps lé mol : tou sa y donn' pa mwen sat' mi veu !`
 
-
-`Malgré sa, y manque a mwin mème !`
-
-`Ou peu essaye embar' la mer. Mé in jour, na in lame plus fort y arriv' et li kass tout' !`
-
-`Fé kom ou la envi, na z'affair sera toujours pli fort que ou !`
+`A koz sa lé loin kom sa !`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
