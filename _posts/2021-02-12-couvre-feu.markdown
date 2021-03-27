@@ -37,7 +37,7 @@ Couvre-feu y continué !
 
 `Couvre-feu ek le temps lé mol : tou sa y donn' pa mwin sat' mi veu !`
 
-`A koz sa lé loin kom sa !`
+`A koz sa lé loin kom sa`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
