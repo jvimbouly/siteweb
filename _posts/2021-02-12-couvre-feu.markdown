@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Couvre-feu y continué !
 
-`Couvre-feu ek le temps lé mol : tou sa y donn' pa mwen sat' mi veu !`
+`Couvre-feu ek le temps lé mol : tou sa y donn' pa mwin sat' mi veu !`
 
 `A koz sa lé loin kom sa !`
 
