@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-03-22 17:22:30 +0400
+date:   2021-03-27 18:11:30 +0400
 categories: 
 ---
 
@@ -15,4 +15,6 @@ categories:
 
 <br>
 ---
+<!---
 <span style="color: blue">***Le temps est maussade et il faut un peu de soleil pour rechauffer les coeurs ...***</span>
+--->
