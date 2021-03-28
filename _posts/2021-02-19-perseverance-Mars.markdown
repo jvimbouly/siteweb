@@ -7,7 +7,7 @@ categories:
 <span style="color: red">***Perseverance est sur la Planète rouge depuis 36 Sols (ou Mars Solar Days). La mission se poursuit avec bientôt l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
 <br>
 
-<span><a href="https://mars.nasa.gov/mars2020/" target="_blank">TAKE A LOOK HERE</a></span>
+<span><a href="https://mars.nasa.gov/mars2020/" target="_blank">Take a look here</a></span>
 <br/><br>
 
 ---
