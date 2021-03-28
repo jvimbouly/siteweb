@@ -15,7 +15,7 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***Après ce temps maussade, il faut un peu de soleil pour rechauffer les coeurs ...***</span>
+<span style="color: blue">***Après ce temps maussade, il faut un peu de soleil pour réchauffer les coeurs ...***</span>
 
 ![Sunflower et Pensée du dimanche]({{ site.url }}/img/Smile/wan-j-kim-Ocebeo6V86g-unsplash_L.jpg)
 
