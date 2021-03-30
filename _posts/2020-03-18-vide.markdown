@@ -6,7 +6,6 @@ categories:
 ---
 
 <span style="color: green">***C’est un immense vide … !***</span>
-
 <!---
 <span style="color: green">***Une sensation de vide immense, comme sur Mars probablement ... !***</span>
 --->
