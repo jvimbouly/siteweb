@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Y koné pu kossa y fo fé ester : couvre-feu, confinement, confinement samedi dimanche, la pou tourn' en bourrique. Na voir demain !!!
 
-`Malgré sa, mi gayn pa trouv' bann' mots pou dir a kel poin y manque a mwin`
+`Malgré sa, mi gayn pa trouv' bann' mots pou dir a kel poin y manque a mwin !`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
