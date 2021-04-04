@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Si y kontunié kom sa, baizemen y vien pou nou. Alor, fé attention sinon bon dié va puni a nou !
 
-`Lé vraimen dur sans ....!`
+`Lé vraimen dur sans ..!`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
