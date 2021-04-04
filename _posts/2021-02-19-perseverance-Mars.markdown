@@ -12,8 +12,7 @@ categories:
 
 Je me suis inscrit pour une future mission sur Mars. J'aurais peut être plus de chance de trouver une vie extra- terrestre sur place :
 
-<iframe width="735" height="307" src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=497885495298" frameborder="0"></iframe>
-
+![Boarding_Pass]({{ site.url }}/img/Smile/BoardingPass_MyNameOnFutureMission_L.png)
 ---
 
 
