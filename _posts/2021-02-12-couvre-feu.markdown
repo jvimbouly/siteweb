@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-04-03 07:52:30 +0400
+date:   2021-04-04 05:49:30 +0400
 categories: 
 ---
 <!---
@@ -33,9 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Si y kontunié kom sa, baizemen y vien pou nou. Alor, fé attention sinon bon dieu va puni a nou !
+Si y kontunié kom sa, baizemen y vien pou nou. Alor, fé attention sinon bon dié va puni a nou !
 
-`Lé dur !`
+`Lé vraimen dur sans ....!`
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
