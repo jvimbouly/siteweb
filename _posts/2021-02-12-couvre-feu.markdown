@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-04-05 16:15:30 +0400
+date:   2021-04-06 17:41:30 +0400
 categories: 
 ---
 <!---
@@ -33,9 +33,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Si y kontunié kom sa, baizemen y vien pou nou. Alor, fé attention sinon bon dié va puni a nou !
+Couvre-feu y kontunié : nou lé enkor privé d'un tas de zaffair, nou peu pu fé rien bientôt !
 
-`Lé vraimen dur sans ou !`
+`Mwin, na lontan mi lé privé de sat' mi té veu. La vie lé kom sa !`
+
+`Malgré sa, y manque a mwin toujours !`
+
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
 
