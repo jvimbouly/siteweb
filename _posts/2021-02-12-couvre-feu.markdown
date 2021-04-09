@@ -37,7 +37,7 @@ Couvre-feu y kontunié : nou lé enkor privé d'un tas de zaffair, nou peu pu f�
 
 `Mwin, na lontan mi lé privé de sat' mi té veu. La vie lé kom sa !`
 
-`Mi espèr' un jour mi pourra trouv' ... !`
+`Mi espèr' un jour mi pourra retrouv' ... !`
 
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
