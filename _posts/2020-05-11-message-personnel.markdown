@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-04-06 17:40:30 +0400
+date:   2021-04-10 18:32:30 +0400
 categories: 
 ---
 
@@ -16,5 +16,5 @@ categories:
 <br>
 ---
 
-<span style="color: blue">***Pensée omniprésente ...***</span>
+<span style="color: blue">***Pensée très forte et omniprésente. C'est comme ça !***</span>
   

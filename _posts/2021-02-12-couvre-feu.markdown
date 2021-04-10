@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-04-09 18:36:30 +0400
+date:   2021-04-10 18:31:30 +0400
 categories: 
 ---
 <!---
@@ -37,7 +37,7 @@ Couvre-feu y kontunié : nou lé enkor privé d'un tas de zaffair, nou peu pu f�
 
 `Mwin, na lontan mi lé privé de sat' mi té veu. La vie lé kom sa !`
 
-`Mi espèr' un jour mi pourra retrouv' ... !`
+`Mi espèr' un jour mi pourra retrouv' sat' ma la perd' !`
 
 
 ![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
