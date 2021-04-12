@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-04-11 18:11:30 +0400
+date:   2021-04-12 15:32:30 +0400
 categories: 
 ---
 
@@ -16,11 +16,5 @@ categories:
 <br>
 ---
 
-<span style="color: blue">***Pensée très forte et omniprésente. C'est comme ça !***</span>
-
-<span style="color: blue">***Je n'ai pas pu m'en empêcher :***</span>
-
-![Fleurs]({{ site.url }}/img/Smile/annie-spratt-WBpr_yH0Frg-unsplash8_L.jpg)
-
-<span>Merci à <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" >Annie Spratt</a> sur <a href="https://unsplash.com/" target="_blank">Unsplash - Images libres de droits</a></span>
+<span style="color: green">***Le passage en mode hybride (avec cours en distanciel) impose des règles de modération plus strictes dans les posts du site (il n'y aucun filtre et Internet est ouvert à tous avec ses avantages, mais aussi quelques petits inconvénients). Le plus important est toujours présent !***</span>
   

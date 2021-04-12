@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-04-10 18:31:30 +0400
+date:   2021-04-11 15:31:30 +0400
 categories: 
 ---
 <!---
@@ -33,14 +33,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Couvre-feu y kontunié : nou lé enkor privé d'un tas de zaffair, nou peu pu fé rien bientôt !
+Couvre-feu i continu !
 
-`Mwin, na lontan mi lé privé de sat' mi té veu. La vie lé kom sa !`
+`Et mi sera toujours là !`
 
-`Mi espèr' un jour mi pourra retrouv' sat' ma la perd' !`
-
-
-![COVID-19]({{ site.url }}/img/covid/corona-6041591_1280.jpg)
+![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
 Merci à <a href="https://pixabay.com/fr/users/alexandra_koch-621802/?tab=popular" target="_blank"><span style="color:  #ff3349">***Alexandra***</span></a>  pour cette image libre de droits.
 
