@@ -16,5 +16,5 @@ categories:
 <br>
 ---
 
-<span style="color: green">***Le passage en mode hybride (avec cours en distanciel) impose des règles de modération plus strictes dans les posts du site (il n'y aucun filtre et Internet est ouvert à tous avec ses avantages, mais aussi quelques petits inconvénients). Le plus important est toujours présent !***</span>
+<span style="color: green">***Le passage en mode hybride (avec cours en distanciel) impose des règles de modération plus strictes dans les posts du site (il n'y a aucun filtre et Internet est ouvert à tous avec ses avantages, mais aussi quelques petits inconvénients). Le plus important est toujours présent !***</span>
   
