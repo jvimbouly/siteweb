@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 i fo zot y larg' a nou un peu. Nou lé pa ti marmaill' !
 
-`Et mi sera toujours là koté ou !`
+`Et mi sera toujours là, koté ou !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
