@@ -33,7 +33,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-i fo zot y larg' a nou un peu. Nou lé pa ti marmaill' !
+i fo zot y larg' a nou un peu. Nou lé pa ti marmay !'
 
 `Et mi sera toujours là, koté ou !`
 
