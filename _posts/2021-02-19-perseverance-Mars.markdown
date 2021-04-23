@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perseverance"
-date:   2021-04-21 19:00:30 +0400
+date:   2021-04-23 19:00:30 +0400
 categories: 
 ---
 <span style="color: blue">***Perseverance est sur la Planète rouge depuis 61 Sols (ou Mars Solar Days).<a href="https://mars.nasa.gov/mars2020/" target="_blank"> Take a look here</a> . La mission se poursuit avec la mise en service de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
@@ -10,7 +10,8 @@ categories:
 --->
 <br>
 
-<span style="color: red">***Important : l'hélicoptère Ingenuity a réussi son premier vol sur Mars le lundi 19 Avril 2021 - C'est un véritable exploit !***</span>
+<span style="color: red">***Ingenuity a effectué un deuxième vol vertical sur Mars le jeudi 22 Avril 2021 - Vidéo ci-dessous :***</span>
+<iframe src='https://mars.nasa.gov/embed/25842/' width='100%' height='400'  scrolling='no' frameborder='0'></iframe>
 <br>
 <br/><br>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-04-21 19:01:30 +0400
+date:   2021-04-23 19:01:30 +0400
 categories: 
 ---
 
@@ -18,5 +18,11 @@ categories:
 
 <span style="color: green">***Le passage en mode hybride (avec cours en distanciel) impose des règles de modération plus strictes dans les posts du site (il n'y a aucun filtre et Internet est ouvert à tous avec ses avantages, mais aussi quelques petits inconvénients). Le plus important est toujours présent !***</span>
 
-<span style="color: blue">***L'effet de curiosité s'est certainement estompé, notamment sur un modeste site web statique... Rien ne peut rivaliser avec le plus grand réseau social au monde !***</span>
+<span style="color: blue">***Depuis quelques temps, le ciel a du mal à se dégager et le plafond nuageux est très bas. Même la nuit, les nuages persistent.***</span>
+
+<span style="color: blue">***Mais au delà, il y a toujours des étoiles.***</span>
+
+<span style="color: #ff33f9">***Alors, pour changer, ceci est pour toi : A Sky Full of Stars - Coldplay***</span>
+
+<span style="color: #33c4ff">***Enjoy !***</span>
   
