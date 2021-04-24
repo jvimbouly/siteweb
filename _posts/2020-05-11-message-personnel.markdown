@@ -28,6 +28,4 @@ categories:
 <span style="color: #3389ff">***I can't stop***</span>
 
 <span style="color: #336bff">***No, I can't stop ...***</span>
-
-***(Ce n'est même pas la peine de traduire !)***
   
