@@ -38,7 +38,7 @@ Mi sa pa fé n'importe koi non plu !
 
 `Et mi sera toujours là, koté ou !`
 
-`Le matin, le midi, le swar, la nuit' : lé kom sa !`
+`Le matin, le midi, le swar, la nuit' : lé kom' sa !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 

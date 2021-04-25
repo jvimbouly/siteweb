@@ -15,7 +15,7 @@ categories:
 
 <span style="color: red">***Ingenuity a effectué un troisième vol sur Mars aujourd'hui (dimanche 25/04/2021). Il s'est élevé à une altitude 5 mètres (16 feet) et s'est "déplacé" sur environ 50 mètres (164 feet) en atteignant une vitesse maximale de 2 m/s (soit 6.6 feet per second).***</span>
 
-<span style="color: red">***Voici l'image du vol d'Ingenuity prise aujourd'hui à partir de la caméra de navigation gauche du rover Preseverance :***</span>
+<span style="color: red">***Voici l'image du vol d'Ingenuity prise aujourd'hui à partir de la caméra de navigation gauche du rover Perseverance :***</span>
 <br>
 ![Image de la Navcam]({{ site.url }}/img/Smile/1-PIA24624.png)
 
