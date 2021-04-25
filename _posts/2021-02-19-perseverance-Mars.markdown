@@ -7,7 +7,6 @@ categories:
 <span style="color: blue">***Perseverance est sur la Planète rouge depuis 64 Sols (ou Mars Solar Days). La mission se poursuit avec la mise en service progressive de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
 
 <a href="https://mars.nasa.gov/mars2020/" target="_blank"> Take a look here</a>
-
 <!---
 <span><a href="https://www.youtube.com/watch?v=ND7YO715QOE" target="_blank">Suivre ici en direct le premier vol d'ingenuity le 12/04/2021 à partir de 11h30 (heure Réunion)</a></span>
 --->
