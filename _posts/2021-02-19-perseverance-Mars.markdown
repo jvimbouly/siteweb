@@ -20,4 +20,4 @@ categories:
 
 
 
-**Je ne dispose pas de moyens aussi sophistiqués dans ma quête. Il faut donc faire preuve de perséverance.**
+**Je ne dispose pas de moyens aussi sophistiqués dans ma quête. Il faut donc faire preuve de persévérance.**
