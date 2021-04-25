@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-04-24 19:01:30 +0400
+date:   2021-04-25 18:01:30 +0400
 categories: 
 ---
 
@@ -25,7 +25,9 @@ categories:
 <br>
 
 ---
-<span style="color: #3389ff">***I can't stop***</span>
+<span style="color: #3389ff">***And, I can't stop .***</span>
 
-<span style="color: #336bff">***No, I can't stop ...***</span>
+<span style="color: #336bff">***No, I can't stop ..***</span>
+
+<span style="color: #334fff">***Sorry, but I can't stop ...***</span>
   
