@@ -4,7 +4,7 @@ title:  "Perseverance"
 date:   2021-04-25 18:00:30 +0400
 categories: 
 ---
-<span style="color: blue">***Perseverance est sur la Planète rouge depuis 64 Sols (ou Mars Solar Days). La mission se poursuit avec la mise en service progressive de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
+<span style="color: blue">***Perseverance est sur la Planète rouge depuis 65 Sols (ou Mars Solar Days). La mission se poursuit avec la mise en service progressive de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
 
 <a href="https://mars.nasa.gov/mars2020/" target="_blank">=> Take a look here</a>
 <!---
