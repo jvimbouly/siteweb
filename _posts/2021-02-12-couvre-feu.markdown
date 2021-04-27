@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-04-25 18:02:30 +0400
+date:   2021-04-27 19:02:30 +0400
 categories: 
 ---
 <!---
@@ -33,13 +33,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-i fo zot y larg' a nou un peu. Nou lé pa ti marmay !
-
-I fo pa fé n'importe koi non plu !
+Ko sa y serv' enferm' do moun le swar depui six heur' si la poin rien i change ?
 
 `Et mi sera toujours là, koté ou !`
 
-`Le matin, le midi, le swar, la nuit' : lé kom' sa !`
+`Le matin, le midi, le swar, la nuit' : tout le temps !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
