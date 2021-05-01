@@ -4,7 +4,7 @@ title:  "1er Mai"
 date:   2021-05-01 05:00:30 +0400
 categories: 
 ---
-<span style="color: blue">***For you :***</span>
+<span style="color: blue">***For you and only for you :***</span>
 
 <br>
 ![Muguet du premier mai]({{ site.url }}/img/Smile/lily-of-the-valley-761141_1280.jpg)
