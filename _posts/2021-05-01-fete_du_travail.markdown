@@ -9,4 +9,4 @@ categories:
 <br>
 ![Muguet du premier mai]({{ site.url }}/img/Smile/lily-of-the-valley-761141_1280.jpg)
 
-Image par <a href="https://pixabay.com/fr/users/domeckopol-610494/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=761141">andreas N</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=761141">Pixabay</a>
+Image libre de droits de <a href="https://pixabay.com/fr/users/domeckopol-610494/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=761141" target="_blank">andreas N</a> sur <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=761141" target="_blank">Pixabay</a>
