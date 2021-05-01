@@ -8,5 +8,7 @@ categories:
 
 `Soleil té paré pou allé et té commence fé noir. Mi esper demin li revien !` 
 
+`The sky is full of stars tonight !`
+
 <br>
 ![Coucher de soleil]({{ site.url }}/img/Smile/littoral_3B_1mai2021.jpg)
