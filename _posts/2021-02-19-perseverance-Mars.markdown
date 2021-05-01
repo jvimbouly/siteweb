@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Perseverance"
-date:   2021-04-25 18:00:30 +0400
+date:   2021-05-01 07:40:30 +0400
 categories: 
 ---
-<span style="color: blue">***Perseverance est sur la Planète rouge depuis 65 Sols (ou Mars Solar Days). La mission se poursuit avec la mise en service progressive de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
+<span style="color: blue">***Perseverance est sur la Planète rouge depuis 70 Sols (ou Mars Solar Days). La mission se poursuit avec la mise en service progressive de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
 
 <a href="https://mars.nasa.gov/mars2020/" target="_blank">=> Take a look here</a>
 <!---
@@ -12,12 +12,13 @@ categories:
 --->
 <br>
 
-<span style="color: red">***Ingenuity a effectué un troisième vol sur Mars le dimanche 25/04/2021. Il s'est élevé à une altitude 5 mètres (16 feet) et s'est "déplacé" sur environ 50 mètres (164 feet) en atteignant une vitesse maximale de 2 m/s (soit 6.6 feet per second).***</span>
+<span style="color: red">***Après un problème technique le jeudi 29/04/2021, Ingenuity a réussi un quatrième vol sur Mars le vendredi 30/04/2021. Il a grimpé à une altitude 5 mètres (16 feet), a volé vers le sud sur 133 mètres (436 feet), puis est revenu (soit une "ballade" de 266 mètres = 872 feet). Le vol a duré 117 secondes (presque 2 minutes)***</span>
 
-<span style="color: red">***Voici une image d'Ingenuity prise le 25/04/2021 à partir de la caméra de navigation gauche du rover Perseverance :***</span>
+<span style="color: red">***Voici une image d'Ingenuity prise le 30/04/2021 à partir de l'une des caméras du rover Perseverance -> on le distingue sur la partie haute :***</span>
 <br>
-![Image de la Navcam]({{ site.url }}/img/Smile/1-PIA24624.png)
+![Image de la Navcam]({{ site.url }}/img/Smile/PIA24642_800x600.png)
 
+Image : NASA/JPL-Caltech
 
 
 **Je ne dispose pas de moyens aussi sophistiqués dans ma quête. Il faut donc faire preuve de persévérance.**
