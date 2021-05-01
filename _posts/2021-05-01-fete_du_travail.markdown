@@ -6,7 +6,7 @@ categories:
 ---
 <span style="color: blue">***For you and only for you :***</span>
 
-<span style="color: #339cff">***Pour toi et uniquement pour toi :***</span>
+<span style="color: #dd33ff">***Pour toi et uniquement pour toi :***</span>
 <br>
 ![Muguet du premier mai]({{ site.url }}/img/Smile/lily-of-the-valley-761141_1280.jpg)
 
