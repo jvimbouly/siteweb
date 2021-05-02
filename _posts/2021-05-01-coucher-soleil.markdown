@@ -5,8 +5,8 @@ date:   2021-05-02 08:40:30 +0400
 categories: 
 ---
 
-`Soleil lé la ce matin ! Mi espèr lé pareil pou ou !` 
+<span style="color: blue">***Coucher de soleil sur le littoral de Trois Bassins à l'heure du couvre-feu, ce soir 2 mai :***</span>
 
-<span style="color: blue">***Coucher de soleil sur le littoral de Trois Bassins à l'heure du couvre-feu, hier 1er mai :***</span>
+`Lé un peu nuageux a soir, i fé un peu plu noir !` 
 
-![Coucher de soleil]({{ site.url }}/img/Smile/littoral_3B_1mai2021.jpg)
+![Coucher de soleil]({{ site.url }}/img/Smile/coucher2_2mai2021.jpg)
