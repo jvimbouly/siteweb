@@ -14,5 +14,7 @@ categories:
 
 Cette réplique a inspiré la devise de cette journée <span style="color: blue">***: May the Fourth be with You***</span>
 
+[Les activités de cette journée](https://www.starwars.com/star-wars-day){:target="_blank" }
+
 
 
