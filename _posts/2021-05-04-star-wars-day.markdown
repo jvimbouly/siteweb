@@ -16,6 +16,7 @@ Cette réplique a inspiré la devise de cette journée <span style="color: blue"
 
 [Celebrating Star Wars Day with UWA](https://www.youtube.com/watch?v=7dI2ST-C3lI&list=RDCMUCp8k4RG604aRzNh1H0U6UlA){:target="_blank" }
 
+[Un plongeon dans la saga](https://www.youtube.com/watch?v=up3Y_yQIma8){:target="_blank" }
 
 [Les activités de cette journée](https://www.starwars.com/star-wars-day){:target="_blank" }
 
