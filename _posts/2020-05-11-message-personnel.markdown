@@ -15,7 +15,7 @@ categories:
 
 <br>
 ---
-<span style="color: blue">***J'avoue avoir eu du mal à retirer les brins de muguet ...***</span>
+<span style="color: #da33ff">***J'avoue avoir eu du mal à retirer les brins de muguet ...***</span>
 
 <br>
 ---
