@@ -16,7 +16,7 @@ Cette réplique a inspiré la devise de cette journée <span style="color: blue"
 
 [Un rapide plongeon dans la saga](https://www.youtube.com/watch?v=up3Y_yQIma8){:target="_blank" }
 
-[Près de 4 minutes dans la saga !](https://www.youtube.com/watch?v=35jLJ5QrzfU){:target="_blank" }
+[Près de 4 minutes dans la saga => TOP !](https://www.youtube.com/watch?v=35jLJ5QrzfU){:target="_blank" }
 
 
 
