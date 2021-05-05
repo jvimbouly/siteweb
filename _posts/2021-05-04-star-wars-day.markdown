@@ -16,7 +16,7 @@ Cette réplique a inspiré la devise de cette journée <span style="color: blue"
 
 [Un rapide plongeon dans la saga](https://www.youtube.com/watch?v=up3Y_yQIma8){:target="_blank" }
 
-[Les activités de cette journée](https://www.starwars.com/star-wars-day){:target="_blank" }
+[4 minutes dans la saga !](https://www.youtube.com/watch?v=Nh3m5E7dc5Y){:target="_blank" }
 
 
 
