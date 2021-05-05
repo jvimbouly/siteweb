@@ -19,7 +19,7 @@ categories:
 
 
 <br>
-<span style="color: green">***La passion de Star Wars me permet de m'évader. La vie m'a quand même laissé des petites choses comme ça mais peut être pas ce qu'il y avait de plus important à mes yeux !***</span>
+<span style="color: green">***La passion de Star Wars me permet de m'évader. La vie m'a quand même laissé des petites choses comme ça mais m'a aussi privé de ce qu'il y avait de plus important à mes yeux !***</span>
 
 
 
