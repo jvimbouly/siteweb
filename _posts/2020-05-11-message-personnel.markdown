@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-04 15:07:30 +0400
+date:   2021-05-05 05:20:30 +0400
 categories: 
 ---
 
@@ -17,6 +17,9 @@ categories:
 ---
 <span style="color: #ff3396">***J'avoue avoir eu du mal à retirer les brins de muguet ...***</span>
 
+
+<br>
+<span style="color: green">La passion de Star Wars me permet de m'évader. La vie m'a quand même laissé des petites choses comme ça mais peut être pas ce qu'il y avait de plus important à mes yeux !</span>
 <br>
 ---
 <span style="color: blue">***Depuis quelques temps, le ciel a du mal à se dégager et le plafond nuageux est très bas. Même la nuit, les nuages persistent. Mais au delà, il y a toujours des étoiles.***</span>
