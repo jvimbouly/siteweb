@@ -4,9 +4,7 @@ title:  "Star Wars Day - May the 4th"
 date:   2021-05-04 15:05:30 +0400
 categories: 
 ---
-<span style="color: blue">***May the Force be with You !***</span>
-
-<span style="color: #dd33ff">***Que la force soit avec toi !***</span>
+<span style="color: blue">***May the Force be with You : ***</span><span style="color: #dd33ff">***Que la force soit avec toi !***</span>
 <br>
 <br>
 
