@@ -19,8 +19,12 @@ categories:
 
 
 <br>
-<span style="color: green">La passion de Star Wars me permet de m'évader. La vie m'a quand même laissé des petites choses comme ça mais peut être pas ce qu'il y avait de plus important à mes yeux !</span>
+<span style="color: green">***La passion de Star Wars me permet de m'évader. La vie m'a quand même laissé des petites choses comme ça mais peut être pas ce qu'il y avait de plus important à mes yeux !***</span>
+
+
+
 <br>
+
 ---
 <span style="color: blue">***Depuis quelques temps, le ciel a du mal à se dégager et le plafond nuageux est très bas. Même la nuit, les nuages persistent. Mais au delà, il y a toujours des étoiles.***</span>
 
