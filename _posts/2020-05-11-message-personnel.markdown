@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-05 05:20:30 +0400
+date:   2021-05-06 17:20:30 +0400
 categories: 
 ---
 
@@ -26,7 +26,9 @@ categories:
 <br>
 
 ---
-<span style="color: blue">***Depuis quelques temps, le ciel a du mal à se dégager et le plafond nuageux est très bas. Même la nuit, les nuages persistent. Mais au delà, il y a toujours des étoiles.***</span>
+<span style="color: #8033ff">***C'est toujours d'actualité, même pour ce qu'il y a plus bas !***</span>
+---
+<span style="color: blue">***Depuis quelques temps, le ciel a du mal à se dégager et le plafond nuageux est très bas. Même la nuit, les nuages persistent. Mais au delà, il y aura toujours des étoiles.***</span>
 
 <span style="color: #ff33f9">***=> ceci est pour toi :***</span><span style="color: #ff338d">***-> A Sky Full of Stars - Coldplay <-***</span>
   
