@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-04-27 18:02:30 +0400
+date:   2021-05-08 18:02:30 +0400
 categories: 
 ---
 <!---
@@ -33,11 +33,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-Ko sa y serv' enferm' do moun le swar depui six heur' si la poin rien i change ?
+Lé paré  pou larg' tout' ester !
 
-`Et mi sera toujours là, koté ou !`
+`Jour férie mé aussi un jour pou fé commence fabrique un peu zanticorps contre COVID-19 !`
 
-`Le matin, le midi, le swar, la nuit' : tout le temps !`
+`Mi esper i sa pa arriv' a mwin rien, sinon nou retrouv' dann' ciel !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 

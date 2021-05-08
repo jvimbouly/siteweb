@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-06 17:40:30 +0400
+date:   2021-05-08 17:10:30 +0400
 categories: 
 ---
 
@@ -15,7 +15,7 @@ categories:
 
 <br>
 ---
-<span style="color: #ff3396">***J'avoue avoir eu du mal à retirer les brins de muguet ...***</span>
+
 
 
 <br>

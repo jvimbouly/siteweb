@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perseverance"
-date:   2021-05-01 07:40:30 +0400
+date:   2021-05-08 17:40:30 +0400
 categories: 
 ---
 <span style="color: blue">***Perseverance est sur la Planète rouge depuis 70 Sols (ou Mars Solar Days). La mission se poursuit avec la mise en service progressive de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
@@ -13,11 +13,11 @@ categories:
 <br>
 
 <span style="color: #e933ff">***STATUS UPDATE =>***</span>
-<span style="color: red">***Après un problème technique le jeudi 29/04/2021, Ingenuity a réussi un quatrième vol sur Mars le vendredi 30/04/2021. Il est monté à une altitude de 5 mètres (16 feet), a volé vers le sud sur 133 mètres (436 feet), puis est revenu (soit une "ballade" de 266 mètres = 872 feet). Le vol a duré 117 secondes (presque 2 minutes)***</span>
+<span style="color: red">***Le cinquième vol  a eu lieu hier, vendredi 07/05/2021. Il est monté à une altitude record de 10 mètres (33 feet) et a volé sur 129 mètres (424 feet) vers un nouveau site d'atterissage. Le vol a duré 108 secondes.***</span>
 
-<span style="color: red">***Voici une image d'Ingenuity prise le 30/04/2021 à partir de l'une des caméras du rover Perseverance -> on le distingue sur la partie haute :***</span>
+<span style="color: red">***Voici une image d'Ingenuity prise le 07/05/2021 à partir de l'une des caméras de navigation de Perseverance -> on le distingue sur la partie centrale, vers le bas :***</span>
 <br>
-![Image de la Navcam]({{ site.url }}/img/Smile/PIA24642_800x600.png)
+![Image de la Navcam]({{ site.url }}/img/Smile/PIA24647.png)
 
 Image : NASA/JPL-Caltech
 
