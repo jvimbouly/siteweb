@@ -13,7 +13,7 @@ categories:
 <br>
 
 <span style="color: #e933ff">***STATUS UPDATE =>***</span>
-<span style="color: red">***Le cinquième vol  a eu lieu hier, vendredi 07/05/2021. Il est monté à une altitude record de 10 mètres (33 feet) et a volé sur 129 mètres (424 feet) vers un nouveau site d'atterissage. Le vol a duré 108 secondes.***</span>
+<span style="color: red">***Le cinquième vol  a eu lieu hier, vendredi 07/05/2021. Ingenuity est monté à une altitude record de 10 mètres (33 feet) et a volé sur 129 mètres (424 feet) vers un nouveau site d'atterissage. Le vol a duré 108 secondes.***</span>
 
 <span style="color: red">***Voici une image d'Ingenuity prise le 07/05/2021 à partir de l'une des caméras de navigation de Perseverance -> on le distingue sur la partie centrale, vers le bas :***</span>
 <br>
