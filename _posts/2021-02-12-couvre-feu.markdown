@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Lé paré  pou larg' tout' ester !
 
-`Jour férie mé aussi un jour pou commence fabrique un peu zanticorps pour batay' contre COVID-19 !`
+`Jour férie mé aussi un jour pou commence fabrique un peu zanticorps i sa batay' contre COVID-19 !`
 
 `Mi esper i sa pa arriv' a mwin rien, sinon nou retrouv' dann' ciel !`
 
