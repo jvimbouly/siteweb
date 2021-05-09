@@ -9,5 +9,5 @@ categories:
 
 ![Coucher de soleil]({{ site.url }}/img/Smile/boris-smokrovic-aolmXcUxr7Y-unsplash.jpg)
 
-Image libre de droits : <a href="https://unsplash.com/@borisworkshop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Boris  Smokrovic</a> sur <a href="https://unsplash.com/s/photos/flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Image libre de droits : <a href="https://unsplash.com/@borisworkshop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Boris  Smokrovic</a> sur <a href="https://unsplash.com/s/photos/flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
   
