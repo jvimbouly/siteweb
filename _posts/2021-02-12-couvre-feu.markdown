@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-05-08 18:02:30 +0400
+date:   2021-05-10 04:00:30 +0400
 categories: 
 ---
 <!---
@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Lé paré  pou larg' tout' ester !
 
-`Jour férie mé aussi un jour pou commence fabrique un peu zanticorps i sa batay' contre COVID-19 !`
+`Un' ti douler' dann bra, mé va passé ! Mi attend' le deuxième ester !`
 
 `Mi esper i sa pa arriv' a mwin rien, sinon nou retrouv' dann' ciel !`
 
