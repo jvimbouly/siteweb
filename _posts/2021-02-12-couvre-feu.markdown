@@ -37,7 +37,7 @@ Lé paré  pou larg' tout' ester !
 
 `Un' ti douler' dann bra, mé va passé ! Mi attend' le deuxième ester !`
 
-`Mi esper i sa pa arriv' a mwin rien, sinon nou retrouv' dann' ciel !`
+`Mi esper i sa pa arriv' a mwin rien, sinon nou retrouv' dann' ciel : C'est pa sat' mi veu !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
