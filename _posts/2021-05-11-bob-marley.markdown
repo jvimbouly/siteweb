@@ -23,4 +23,4 @@ categories:
 
 *etc...*
 
-Mais il y a une qui mérite un petit détour : ***Stir it up***
+<span style="color: red">Mais il y a une qui mérite un petit détour : ***Stir it up***</span>
