@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Bob MARLEY"
+title:  "Bob Marley"
 date:   2021-05-11 04:15:30 +0400
 categories: 
 ---
 
-<span style="color: blue">***Il y a 40 ans, Bob MARLEY (Robert Nesta MARLEY) nous quittait. Parmi ses célèbres chansons :***</span>
+<span style="color: blue">***Il y a 40 ans, Bob Marley (Robert Nesta MARLEY) nous quittait. Parmi ses célèbres chansons :***</span>
 
 *Could you be loved*
 
@@ -23,4 +23,4 @@ categories:
 
 *etc...*
 
-Mais il y a une, à part : ***Stir it up***
+Mais il y a une qui mérite un petit détour : ***Stir it up***
