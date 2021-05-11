@@ -6,7 +6,7 @@ categories:
 ---
 
 <span style="color: green">***Il y a 40 ans, Bob Marley (Robert Nesta MARLEY) nous quittait. Parmi ses célèbres chansons :***</span>
-
+<span style="color: yellow">
 *Could you be loved*
 
 *No woman, No cry*
@@ -22,5 +22,5 @@ categories:
 *Survival*
 
 *etc...*
-
+</span>
 <span style="color: red">Mais il y a une qui mérite un petit détour : ***Stir it up***</span>
