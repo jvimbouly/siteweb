@@ -26,3 +26,7 @@ categories:
 <span style="color: red">Mais il y a une qui mérite un petit détour : ***Stir it up***</span>
 
 *Sacré Bob Marley. Déjà à son époque, il voyait juste !*
+
+<br>
+
+*J'écoute Bob Marley depuis mes années collège.*
