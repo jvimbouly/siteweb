@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-08 17:10:30 +0400
+date:   2021-05-13 07:30:30 +0400
 categories: 
 ---
 
@@ -19,17 +19,16 @@ categories:
 
 
 <br>
-<span style="color: green">***La passion pour Star Wars me permet de m'évader. La vie m'a quand même laissé des petites choses comme ça. Mais elle m'a aussi privé de ce qu'il y avait de plus important à mes yeux !***</span>
+<span style="color: #11cbda">***La passion pour Star Wars me permet de m'évader. La vie m'a quand même laissé des petites choses comme ça. Mais elle m'a aussi privé de ce qu'il y avait de plus important à mes yeux !***</span>
 
 
 
 <br>
 
----
-<span style="color: #8033ff">***C'est toujours d'actualité :***</span>
+
 
 ---
-<span style="color: blue">***Depuis quelques temps, le ciel a du mal à se dégager et le plafond nuageux est très bas. Même la nuit, les nuages persistent. Mais au delà, il y aura toujours des étoiles.***</span>
+<span style="color: blue">***Le soleil semble revenir et le ciel est de plus en plus dégagé. Le soir, les étoiles sont visibles !***</span>
 
 <span style="color: #ff33f9">***=> ceci est pour toi :***</span><span style="color: #ff338d">***-> A Sky Full of Stars - Coldplay <-***</span>
   
