@@ -16,8 +16,8 @@ Une de mes préférées :
 
 *There's a natural mystic blowing through the air*
 
- *If you listen carefully now you will hear*
+*If you listen carefully now you will hear*
 
- *This could be...*
+*This could be...*
 
- Extrait de *Natural Mystic* (Bob Marley and the Wailers)
+Extrait de *Natural Mystic* (Bob Marley and the Wailers)
