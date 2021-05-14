@@ -12,7 +12,7 @@ categories:
 <span style="background: red">***Ses chansons sont éternelles !***</span>
 
 
-
+<br>
 
 Une de mes préférées :
 
@@ -21,6 +21,21 @@ Une de mes préférées :
 
 *If you listen carefully now you will hear*
 
-*This could be...*
+*This could be the first trumpet, might as well be the last*
+
+*Many more will have to suffer*
+
+*Many more will have to die*
+
+*Don't ask me why*
+
+*Things are not the way they used to be*
+
+*I won't tell no lie*
+
+*One and all got to face reality now*
+
+...
+
 
 Extrait de *"Natural Mystic"* (Bob Marley and the Wailers)
