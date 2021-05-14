@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-05-10 04:05:30 +0400
+date:   2021-05-14 16:05:30 +0400
 categories: 
 ---
 <!---
@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Lé paré  pou larg' tout' ester !
 
-`Un' ti douler' dann bra, mé va passé ! Mi attend' le deuxième ester !`
+`Si mi écout' Joe BIDEN kozé, dan 1 moi , mi met' pu le mask alors ? lé bon kom sa !`
 
 `Mi esper i sa pa arriv' a mwin rien, sinon nou retrouv' dann' ciel : C'est pa sat' mi veu !`
 
