@@ -23,4 +23,4 @@ Une de mes préférées :
 
 *This could be...*
 
-Extrait de *Natural Mystic* (Bob Marley and the Wailers)
+Extrait de *"Natural Mystic"* (Bob Marley and the Wailers)
