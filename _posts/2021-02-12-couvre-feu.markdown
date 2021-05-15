@@ -37,7 +37,7 @@ Lé paré  pou larg' tout' ester !
 
 `Si mi écout' Joe BIDEN kozé, dan 1 moi , mi met' pu le mask alors ?`
 
-`Mi lé vraimen kouyon pou croire un zaffair kom sa : Joe BIDEN i habite pa la Rénion !`
+`Mi lé vraimen kouyon : Joe BIDEN i habite pa la Rénion sa !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
