@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-05-14 18:35:30 +0400
+date:   2021-05-15 07:55:30 +0400
 categories: 
 ---
 <!---
@@ -35,9 +35,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Lé paré  pou larg' tout' ester !
 
-`Si mi écout' Joe BIDEN kozé, dan 1 moi , mi met' pu le mask alors ? lé bon kom sa !`
+`Si mi écout' Joe BIDEN kozé, dan 1 moi , mi met' pu le mask alors ?`
 
-`Mi esper i sa pa arriv' a mwin rien, sinon nou retrouv' dann' ciel : C'est pa sat' mi veu !`
+`Mi lé vraimen kouyon pou croire un zaffair kom sa : Joe BIDEN i habite pa la Rénion !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
