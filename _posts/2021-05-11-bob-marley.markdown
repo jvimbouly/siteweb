@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bob Marley"
-date:   2021-05-14 18:25:30 +0400
+date:   2021-05-17 18:25:30 +0400
 categories: 
 ---
 
@@ -14,30 +14,36 @@ categories:
 
 <br>
 
-Une de mes préférées :
+Pour cloturer l'hommage à Bob Marley, une chanson pleine de sens : 
 
 <br>
 
-*There's a natural mystic blowing through the air*
+*One, two, three, four*
 
-*If you listen carefully now you will hear*
+*Wake up and live, y'all*
 
-*This could be the first trumpet, might as well be the last*
+*Wake up and live*
 
-*Many more will have to suffer*
+*Wake up and live now*
 
-*Many more will have to die*
+*Wake up and live*
 
-*Don't ask me why*
+*Life is one big road with lots of signs*
 
-*Things are not the way they used to be*
+*So when you riding through the ruts*
 
-*I won't tell no lie*
+*Don't you complicate your mind*
 
-*One and all got to face reality now*
+*Flee from hate, mischief and jealousy*
+
+*Don't bury your thoughts*
+
+*Put your vision to reality, yeah*
+
+*All together now*
 
 ...
 
 <br>
 
-Extrait de *"Natural Mystic"* (Bob Marley and the Wailers)
+Extrait de *"Wake up and live"* (Bob Marley and the Wailers)
