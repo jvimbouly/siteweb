@@ -37,7 +37,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Mwin mi attend' un deuxième dose !`
 
-`Mi esper y sa pa fini ek mwin ! Parce que mi pense que mi na enkor un' deux zaffair pou fé su la terre ! Sat la pa laisse a mwen le temps faire !`
+`Mi esper y sa pa fini ek mwin ! Parce que mi pense que mi na enkor un' deux zaffair pou fé su la terre ! Sat la pa laisse a mwin le temps faire !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
