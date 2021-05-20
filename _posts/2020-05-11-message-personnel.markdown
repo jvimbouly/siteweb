@@ -17,5 +17,5 @@ categories:
 ---
 
 
-Tout simplement !
+<span style="color: blue">***Tout simplement !***</span>
   
