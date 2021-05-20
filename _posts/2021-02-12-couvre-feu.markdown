@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-05-18 18:24:30 +0400
+date:   2021-05-20 18:20:30 +0400
 categories: 
 ---
 <!---
@@ -33,11 +33,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Néna un varian Lakour ester ! Ki sa la di kreol lé pas kapab ?`
+`Mwin, mi attend' le deuxième vaccin !`
 
-`Mwin mi attend' un deuxième dose !`
-
-`Mi esper i sa pa fini ek mwin ! Parce que mi na enkor un' deux zaffair pou fé su la terre ! Sat la pa laisse a mwin le temps fé !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
