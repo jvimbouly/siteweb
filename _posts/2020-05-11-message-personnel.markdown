@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-20 18:23:30 +0400
+date:   2021-05-30 08:00:30 +0400
 categories: 
 ---
 
@@ -17,5 +17,11 @@ categories:
 ---
 
 
-<span style="color: blue">***Tout simplement !***</span>
+<span style="color: blue">***Certains évènements sont réservés à la sphère privée. J'espère donc qu'il ne sera pas tenu rigueur de cette "intrusion".***</span>
+<span style="color: blue">***Car, il m'est difficile de ne pas avoir une forte pensée ! (notamment pour un package 2 en 1)***</span>
+
+![nature]({{ site.url }}/img/Smile/mes_fleurs_nature.png)
+
+<span style="color: blue">***Des choses très simples, compilées au gré de mes ballades ! Je n'oublie pas ! Enjoy !***</span>
+
   
