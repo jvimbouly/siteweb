@@ -33,7 +33,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Mwin, mi attend' le deuxième vaccin !`
+`Mi attend' le deuxième vaccin !`
 
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
