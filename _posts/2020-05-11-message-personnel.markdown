@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-30 08:21:30 +0400
+date:   2021-05-30 16:21:30 +0400
 categories: 
 ---
 
@@ -23,7 +23,9 @@ categories:
 
 ![nature]({{ site.url }}/img/Smile/mes_fleurs_nature.png)
 
-<span style="color: blue">***Pour toi, des choses très simples, compilées au gré de mes ballades ! Je n'ai pas oublié !***</span>
+<span style="color: blue">***Pour toi, des choses très simples, compilées au gré de mes ballades !***</span>
+
+<span style="color: blue">***Je n'ai pas oublié !***</span>
 
 <span style="color: blue">***Enjoy your day !***</span>
 
