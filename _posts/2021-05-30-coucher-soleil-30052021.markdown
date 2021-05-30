@@ -5,6 +5,6 @@ date:   2021-05-30 16:00:30 +0400
 categories: 
 ---
 
-<span style="color: blue">***Le soleil s'en va progressivement devant le littoral de Trois Bassins mais la pensée reste intacte.***</span>
+<span style="color: blue">***Le soleil s'en va progressivement devant le littoral de Trois Bassins. Mais la pensée reste intacte !***</span>
 
 ![Coucher de soleil]({{ site.url }}/img/Smile/coucher_30052021_5.jpg)
