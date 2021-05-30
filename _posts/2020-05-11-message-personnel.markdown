@@ -17,7 +17,7 @@ categories:
 ---
 
 
-<span style="color: blue">***Certains évènements sont réservés à la sphère privée. J'espère donc qu'il ne sera pas tenu rigueur de cette "intrusion".***</span>
+<span style="color: blue">***Certains évènements sont réservés à la sphère privée. J'espère donc qu'il ne me sera pas tenu rigueur de cette "intrusion".***</span>
 <span style="color: blue">***Car, il m'est difficile de ne pas avoir une forte pensée ! (notamment pour un package 2 en 1 !)***</span>
 
 ![nature]({{ site.url }}/img/Smile/mes_fleurs_nature.png)
