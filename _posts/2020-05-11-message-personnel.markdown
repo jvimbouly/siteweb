@@ -23,6 +23,6 @@ categories:
 
 ![nature]({{ site.url }}/img/Smile/mes_fleurs_nature.png)
 
-<span style="color: blue">***Des choses très simples, compilées au gré de mes ballades ! Je n'ai pas oublié ! Enjoy !***</span>
+<span style="color: blue">***Des choses très simples, compilées au gré de mes ballades ! Je n'ai pas oublié ! Enjoy your day !***</span>
 
   
