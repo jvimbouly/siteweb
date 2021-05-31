@@ -7,6 +7,4 @@ categories:
 
 <span style="color: blue">***Le thème de cette journée : "S’engager à arrêter", en anglais "Commit to quit"***</span>
 
-<span style="color: blue">***Qui suis-je pour donner un conseil ? Rien en fait !***</span>
-
 ![Journée mondiale]({{ site.url }}/img/Smile/oms-fume4.jpg)
