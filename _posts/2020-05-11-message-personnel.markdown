@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-30 16:21:30 +0400
+date:   2021-05-31 13:02:30 +0400
 categories: 
 ---
 
@@ -17,16 +17,6 @@ categories:
 ---
 
 
-<span style="color: blue">***Certains évènements sont réservés à la sphère privée. J'espère donc qu'il ne me sera pas tenu rigueur de cette "intrusion".***</span>
-
-<span style="color: blue">***Car, il m'est difficile de ne pas avoir une très forte pensée ! (notamment pour un package 2 en 1 !)***</span>
+<span style="color: blue">***C'est une modeste composition de petites "Fleurs des champs". J'espère que cela fait quand même plaisir !***</span>
 
 ![nature]({{ site.url }}/img/Smile/mes_fleurs_nature.png)
-
-<span style="color: blue">***Pour toi, des choses très simples, compilées au gré de mes ballades !***</span>
-
-<span style="color: blue">***Je n'ai pas oublié !***</span>
-
-<span style="color: blue">***Enjoy your day !***</span>
-
-  
