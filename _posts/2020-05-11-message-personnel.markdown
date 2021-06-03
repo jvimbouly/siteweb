@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-05-31 13:02:30 +0400
+date:   2021-06-03 18:02:30 +0400
 categories: 
 ---
 
@@ -17,6 +17,8 @@ categories:
 ---
 
 
-<span style="color: blue">***C'est une modeste composition de petites "Fleurs des champs". J'espère que cela fait quand même plaisir !***</span>
+<span style="color: blue">***Au gré des balades ...***</span>
 
-![nature]({{ site.url }}/img/Smile/mes_fleurs_nature.png)
+*Balade avec un seul "l" car ce n'est pas la même chose avec 2 "l"*
+
+![Fleur de la nature]({{ site.url }}/img/fleurs/IMG_20210602_174246.jpg)
