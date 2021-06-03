@@ -19,6 +19,6 @@ categories:
 
 <span style="color: blue">***Au gré des balades ...***</span>
 
-*Balade avec un seul "l" car ce n'est pas la même chose avec 2 "l"*
+*Balade avec un seul "l" car ce n'est pas la même chose avec deux "l"*
 
 ![Fleur de la nature]({{ site.url }}/img/fleurs/IMG_20210602_174246.jpg)
