@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-06-03 18:02:30 +0400
+date:   2021-06-04 18:02:30 +0400
 categories: 
 ---
 
@@ -17,8 +17,8 @@ categories:
 ---
 
 
-<span style="color: blue">***Au gré des balades ...***</span>
+<span style="color: red">***Au gré de mes escapades ...***</span>
 
-*Balade avec un seul "l" car ce n'est pas la même chose avec deux "l"*
+*Il faut changer un peu de couleur !*
 
-![Fleur de la nature]({{ site.url }}/img/fleurs/IMG_20210602_174246.jpg)
+![Fleur de la nature]({{ site.url }}/img/fleurs/IMG_vendredi_0406.jpg)
