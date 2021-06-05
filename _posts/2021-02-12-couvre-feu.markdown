@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-05-20 18:20:30 +0400
+date:   2021-06-05 18:00:30 +0400
 categories: 
 ---
 <!---
@@ -33,7 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Mi attend' le deuxième vaccin !`
+`Le deuxième i sen passé tout' de suite !`
+
+`I fo attend' 15 jours ester pou que tout' lé bon !`
 
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
