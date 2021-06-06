@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-06-05 18:00:30 +0400
+date:   2021-06-06 04:00:30 +0400
 categories: 
 ---
 <!---
@@ -33,10 +33,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Le deuxième i sen passé tout' de suite !`
+`Le deuxième, la met hier apres midi et ou sent a li passé !`
 
-`I fo attend' 15 jours ester pou que tout' lé bon !`
+`na enkor un bon douleur dan zépaul. La, mi croi i fo res un peu trankil et prend un doliprane !`
 
+`kom ou voit, mi lé enkor vivant !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
