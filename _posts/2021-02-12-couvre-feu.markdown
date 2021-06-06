@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Le deuxième, la met' hier apres midi et ou sent a li passé !`
 
-`na enkor un bon douleur dan zépaul. La, mi croi i fo res un peu trankil et prend un doliprane !`
+`na enkor un bon douleur dan zépaul. La, mi croi i fo res un peu trankil et i fo mi prend un doliprane !`
 
 `kom ou voit, mi lé enkor vivant !`
 
