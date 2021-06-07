@@ -33,7 +33,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Le deuxième vaccin la bien met' a mwin a terre ! ma la fini viv' z'affair plus dur que sa !`
+`Le deuxième vaccin la bien met' a mwin a terre ! mais, ma la fini viv' z'affair plus dur que sa !`
 
 `Et mi lé enkor là !`
 
