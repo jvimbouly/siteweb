@@ -33,11 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Le deuxième, la met' hier apres midi et ou sent a li passé !`
+`Le deuxième vaccin la bien met' a mwin a terre ! ma la fini viv' z'affair plus dur que sa !`
 
-`na enkor un bon douleur dan zépaul. La, mi croi i fo res un peu trankil et i fo mi prend un doliprane !`
-
-`kom ou voit, mi lé enkor vivant !`
+`Et mi lé enkor là !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
