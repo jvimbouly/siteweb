@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-06-10 19:05:30 +0400
+date:   2021-06-11 03:32:30 +0400
 categories: 
 ---
 <!---
@@ -35,7 +35,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Le vaccin, lé kom' un bon pé zaffair dan la vie : chakén i fé sat li veu !`
 
+`Do moun' la peur ici ! si ou prend 4 moun dann' chemin, 3 la pa enkor fé le premier vaccin !`
 
+`COVID-19 i sa pa joué ek nou !`
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
