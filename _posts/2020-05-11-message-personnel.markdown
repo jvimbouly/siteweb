@@ -17,7 +17,7 @@ categories:
 ---
 
 
-<span style="color: red">***Reprise des escapades et l'occasion de mettre à l'honneur une des couleurs favorites :***</span>
+<span style="color: red">***Reprise des escapades et l'occasion de mettre en avant une des couleurs favorites :***</span>
 
 
 ![Rose de la nature]({{ site.url }}/img/fleurs/rose_escapade.jpg)
