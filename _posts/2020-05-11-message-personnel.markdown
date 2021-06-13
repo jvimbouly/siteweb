@@ -19,7 +19,7 @@ categories:
 
 <span style="color: red">***Reprise des escapades avec une occasion de mettre en avant une des couleurs favorites :***</span>
 
-*Remarque : la conjonction de coordination "et" n'était pas vraiment adapté ici et je ne voulais pas mettre "est". Mais ce n'est pas le plus important !*
+*Remarque : la conjonction de coordination "et" n'était pas vraiment adaptée ici et je ne voulais pas mettre "est". Mais ce n'est pas le plus important !*
 
 ![Rose de la nature]({{ site.url }}/img/fleurs/rose_escapade.jpg)
 
