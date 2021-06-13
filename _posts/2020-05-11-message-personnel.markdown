@@ -21,3 +21,5 @@ categories:
 
 
 ![Rose de la nature]({{ site.url }}/img/fleurs/rose_escapade.jpg)
+
+<span style="color: red">***La nature offre des choses simples. Enjoy !***</span>
