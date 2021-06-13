@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-06-13 06:12:30 +0400
+date:   2021-06-13 18:44:30 +0400
 categories: 
 ---
 
@@ -17,8 +17,9 @@ categories:
 ---
 
 
-<span style="color: red">***Reprise des escapades et l'occasion de mettre en avant une des couleurs favorites :***</span>
+<span style="color: red">***Reprise des escapades avec une occasion de mettre en avant une des couleurs favorites :***</span>
 
+*Remarque : la conjonction de coordination "et" n'était pas vraiment adapté ici et je ne voulais pas mettre "est". Mais ce n'est pas le plus important !*
 
 ![Rose de la nature]({{ site.url }}/img/fleurs/rose_escapade.jpg)
 
