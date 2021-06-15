@@ -7,7 +7,7 @@ categories:
 
 *Le spationaute Thomas Pesquet a publié une photo du sud-ouest de la Réunion, prise le 28 mai 2021 à partir de l'ISS. Il faut remarquer qu'elle est "à l'envers" par rapport aux traditionnelles cartes qui placent toujours le nord vers le haut => il faut donc avoir de bons repères pour identifier tous les coins de cette partie de l'île !*
 
-*[**Sud-ouest de la Réunion - côte - Cilaos**](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}*
+*[**Voir le sud-ouest de la Réunion - côte - Cilaos**](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}*
 
 *J'habitais Saint-Denis auparavant, mais les circonstances de la vie m'ont poussé à partir ...*
 
