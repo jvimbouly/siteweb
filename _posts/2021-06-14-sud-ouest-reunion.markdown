@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Région sud-Ouest vu de l'espace"
+title:  "Région sud-ouest vue de l'espace"
 date:   2021-06-15 18:45:30 +0400
 categories: 
 ---
