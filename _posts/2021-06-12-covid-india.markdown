@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COVID-19 Inde"
+title:  "COVID-19 en Inde"
 date:   2021-06-12 18:40:30 +0400
 categories: 
 ---
