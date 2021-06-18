@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-06-11 04:01:30 +0400
+date:   2021-06-18 18:40:30 +0400
 categories: 
 ---
 <!---
@@ -33,11 +33,15 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Le vaccin, lé kom' un bon pé zaffair dan la vie : chakén i fé sat li veu !`
+[Une fois n'est pas coutume, voici un "coup de gueule" en anglais de Linus TORVALDS pour dénoncer des commentaires anti-vax sur les listes de diffusion utilisées pour le développement du noyau Linux !](https://news.itsfoss.com/linus-torvalds-get-vaccinated/){:target="_blank"}
 
-`Do moun' la peur ici ! si ou prend 4 moun dann' chemin, 3 la pa enkor fé le premier vaccin !`
+*Linus TORVALDS : créateur du noyau Linux => utilisés dans les équipements pour Internet notamment*
 
-`COVID-19 i sa pa joué ek nou !`
+La Linux Foundation Public Health a lancé le Global COVID Certificate Network (GCCN) : Réseau mondial de certificats COVID pour activer les laissez-passer de santé COVID-19 interopérables => permettra de voyager dans le monde entier avec une vérification de l'authenticité du certificat de vaccination de la personne tout en protégeant ses données (confidentialité) !
+
+`Na do moun i di n'importe quoi su bann' Vaccin anti-covid ! `
+
+`Pou mwin, vaccin va pou protège a nou ! `
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
