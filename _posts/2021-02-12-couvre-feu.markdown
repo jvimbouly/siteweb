@@ -40,7 +40,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 La Linux Foundation Public Health a lancé le Global COVID Certificate Network (GCCN) : Réseau mondial de certificats COVID pour activer les laissez-passer de santé COVID-19 interopérables => permettra à une personne de voyager dans le monde entier avec une vérification de l'authenticité de son certificat de vaccination tout en protégeant ses données (confidentialité) ! `Lé un peu compliqué mé sé pou nou même ! `
 
 
-`Na do moun i di n'importe quoi su bann' Vaccin anti-covid ! `
+`Na do moun i di n'importe quoi su bann' Vaccin anti-COVID ! `
 
 `Pou mwin, vaccin va pou protège a nou ! `
 
