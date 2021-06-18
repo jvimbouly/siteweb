@@ -17,9 +17,7 @@ categories:
 ---
 
 
-<span style="color: red">***La nature est formidable ! Effet, le bouton offert précédemment ne s'est pas fait prier pour éclater (profitant des conditions favorables en moyenne altitude) !***</span>
-
-<span style="color: red">***C'est une bonne affaire pour le coup : 2 pour le prix d'une !***</span>
+<span style="color: red">***La nature est formidable ! Effet, le bouton offert précédemment ne s'est pas fait prier pour éclater (profitant des conditions favorables en moyenne altitude) => C'est une bonne affaire pour le coup : 2 pour le prix d'une !***</span>
 
 <span style="color: red">***Enjoy !***</span>
 
