@@ -37,7 +37,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 *Linus TORVALDS : créateur du noyau Linux => utilisés dans les équipements pour Internet notamment*
 
-La Linux Foundation Public Health a lancé le Global COVID Certificate Network (GCCN) : Réseau mondial de certificats COVID pour activer les laissez-passer de santé COVID-19 interopérables => permettra de voyager dans le monde entier avec une vérification de l'authenticité du certificat de vaccination de la personne tout en protégeant ses données (confidentialité) !
+La Linux Foundation Public Health a lancé le Global COVID Certificate Network (GCCN) : Réseau mondial de certificats COVID pour activer les laissez-passer de santé COVID-19 interopérables => permettra à une personne de voyager dans le monde entier avec une vérification de l'authenticité de son certificat de vaccination tout en protégeant ses données (confidentialité) !
 
 `Na do moun i di n'importe quoi su bann' Vaccin anti-covid ! `
 
