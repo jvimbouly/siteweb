@@ -9,7 +9,7 @@ categories:
 
 *Il faut remarquer qu'elle est "à l'envers" par rapport aux traditionnelles cartes qui placent toujours le nord vers le haut => il faut donc avoir de bons repères pour identifier tous les coins de cette partie de l'île ! Une indication : ici, l'Etang-Salé les bains est en haut !*
 
-*[**Voir le sud-ouest de la Réunion - côte - Cilaos aussi !**](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}*
+*[**Voir le sud-ouest de la Réunion : sa côte, mais aussi Cilaos ! Il est possible de cliquer sur l'image plus bas**](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}*
 
 *J'habitais Saint-Denis auparavant, mais les circonstances de la vie m'ont poussé à partir ...*
 
