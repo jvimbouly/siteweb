@@ -44,6 +44,8 @@ La Linux Foundation Public Health a lancé le Global COVID Certificate Network (
 
 `Pou mwin, vaccin va pou protège a nou ! `
 
+`Après "voisins i veille a nou", Variant i veille a nou ! `
+
 
 ![COVID-19]({{ site.url }}/img/covid/virus-4957826_1280.jpg)
 
