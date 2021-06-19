@@ -17,7 +17,7 @@ categories:
 
 *Est-ce que cela signifie pour autant que la vie s'est enfin décidée à me laisser tranquille ? J'en doute fort !*
 
-*Mon isolement ne durera pas éternellement !*
+*Mon isolement ne durera pas éternellement, ma vie non plus !*
 
 [![Sud-ouest de la Réunion]({{ site.url }}/img/nature/sud_ouest_reunion_thomas_pesquet.jpg)](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}
 

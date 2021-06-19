@@ -33,7 +33,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-[Une fois n'est pas coutume, voici un "coup de gueule" en anglais de Linus TORVALDS pour dénoncer des commentaires anti-vax sur les listes de diffusion utilisées pour le développement du noyau Linux !](https://news.itsfoss.com/linus-torvalds-get-vaccinated/){:target="_blank"}
+[Une fois n'est pas coutume, voici un "coup de gueule" (en anglais) de Linus TORVALDS pour dénoncer des commentaires anti-vax sur les listes de diffusion utilisées pour le développement du noyau Linux !](https://news.itsfoss.com/linus-torvalds-get-vaccinated/){:target="_blank"}
 
 *Linus TORVALDS : créateur du noyau Linux => utilisés dans les équipements pour Internet notamment*
 
