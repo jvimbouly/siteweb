@@ -42,7 +42,7 @@ La Linux Foundation Public Health a lancé le Global COVID Certificate Network (
 
 `Na do moun i di n'importe quoi su bann' Vaccin anti-COVID ! `
 
-`Pou mwin, vaccin va pou protège a nou ! `
+`Pou mwin, vaccin va protège a nou ! `
 
 `Après "voisins i veille a nou", Variant i veille a nou ! `
 
