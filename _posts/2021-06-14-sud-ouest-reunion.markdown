@@ -6,11 +6,11 @@ categories:
 ---
 
 
-***18 degrés à Saint-Pierre Terre-Sainte, ce matin à 8h00 ! Sommes-nous toujours à la Réunion ?***
+***18 degrés celcius à Saint-Pierre Terre-Sainte, ce matin à 8h00 ! Sommes-nous toujours à la Réunion ?***
 
 *[**Photo du Sud-ouest de la Réunion prise par le spationaute Thomas Pesquet le 28 mai 2021 à partir de l'ISS, dans le cadre de la mission Alpha**](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}*
 
-*Une indication : sur l'image, l'Etang-Salé les bains est en haut !*
+*Une indication : sur l'image, l'Etang-Salé les bains est en haut ! (cliquer sur l'image ci-dessous)*
 
 [![Sud-ouest de la Réunion]({{ site.url }}/img/nature/sud_ouest_reunion_thomas_pesquet.jpg)](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}
 
