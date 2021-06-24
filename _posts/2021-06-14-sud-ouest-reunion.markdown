@@ -6,7 +6,7 @@ categories:
 ---
 
 
-***18 degrés celcius à Saint-Pierre Terre-Sainte, ce matin à 8h00 ! Sommes-nous toujours à la Réunion ?***
+***18°C à Saint-Pierre Terre-Sainte, le mercredi 23/06/21 à 8h00 du matin ! Sommes-nous toujours à la Réunion ?***
 
 *[**Photo du Sud-ouest de la Réunion prise par le spationaute Thomas Pesquet le 28 mai 2021 à partir de l'ISS, dans le cadre de la mission Alpha**](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}*
 
