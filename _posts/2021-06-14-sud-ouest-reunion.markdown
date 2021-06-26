@@ -12,7 +12,7 @@ categories:
 
 *Une deuxième indication : la côte photographiée, va de la Saline les Bains jusqu'au sud de Saint-Pierre juste avant le quartier de Grand-Bois*
 
-*Je m'imaginais pas vivre dans cette partie de l'île mais la vie en a décidé autrement !*
+<span style="color: blue">***Je m'imaginais pas vivre dans cette partie de l'île mais la vie en a décidé autrement !***</span>
 
 [![Sud-ouest de la Réunion]({{ site.url }}/img/nature/sud_ouest_reunion_thomas_pesquet.jpg)](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}
 
