@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-06-19 08:02:30 +0400
+date:   2021-06-26 18:02:30 +0400
 categories: 
 ---
 
@@ -17,8 +17,7 @@ categories:
 ---
 
 
-<span style="color: red">***La nature est formidable ! Effet, le bouton offert précédemment ne s'est pas fait prier pour éclater (profitant des conditions favorables en moyenne altitude) => C'est une bonne affaire : 2 Roses pour le prix d'une !***</span>
+***J'adhère à un nouveau projet pour la Réunion, proposé par une femme qui a toujours fait preuve de combativité, de détermination et d'intégrité.***
+***Ce dimanche 27 juin, ma main ne tremblera pas au moment de glisser le bulletin de vote pour les élections régionales !***
 
-<span style="color: red">***Enjoy !***</span>
-
-![Rose de la nature]({{ site.url }}/img/fleurs/2_roses_maintenant.jpg)
+***Je reste fidèle à mes convictions !***

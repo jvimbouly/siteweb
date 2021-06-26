@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-06-19 08:00:30 +0400
+date:   2021-06-26 18:01:30 +0400
 categories: 
 ---
 <!---
@@ -33,21 +33,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-[Une fois n'est pas coutume, voici un "coup de gueule" (en anglais) de Linus TORVALDS pour dénoncer des commentaires anti-vax sur les listes de diffusion utilisées pour le développement du noyau Linux !](https://news.itsfoss.com/linus-torvalds-get-vaccinated/){:target="_blank"}
+` Do moun ici lé pa trop d'accord pou fé vaccine a zot contre COVID-19 ! `
 
-*Linus TORVALDS : créateur du noyau Linux => est au coeur des équipements informatiques utilisés pour le fonctionnement d'Internet notamment !*
+` Le variant Delta lé la ! Koman sa la fé pou arriv' ici ? `
 
-La Linux Foundation Public Health a lancé le Global COVID Certificate Network (GCCN) : Réseau mondial de certificats COVID pour activer les laissez-passer de santé COVID-19 interopérables => permettra à une personne de voyager dans le monde entier avec une vérification de l'authenticité de son certificat de vaccination tout en protégeant ses données (confidentialité) ! `Lé un peu compliqué mé sé pou nou même ! `
-
-
-`Na do moun i di n'importe quoi su bann' Vaccin anti-COVID ! `
-
-`Pou mwin, vaccin va protège a nou ! `
-
-`Après "voisins i veille a nou", Variant i veille a nou ! `
+` Mé surtout, koman i sa fé pou bloque sa ? `
 
 
-![COVID-19]({{ site.url }}/img/covid/corona-6256612_1280.jpg)
+![COVID-19]({{ site.url }}/img/covid/spencer-davis-s4_g2TCyNHM-unsplash.jpg)
 
-Merci à <a href="https://pixabay.com/fr/users/alexandra_koch-621802/?tab=popular" target="_blank"><span style="color:  #ff3349">***Alexandra***</span></a>  pour cette image libre de droits.
-
+Merci à <a href="https://unsplash.com/@spencerbdavis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank"><span style="color:  #ff3349">***Spencer Davis***</span></a>  pour cette image libre de droits.
+  
