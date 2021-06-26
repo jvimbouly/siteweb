@@ -42,5 +42,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ![COVID-19]({{ site.url }}/img/covid/spencer-davis-s4_g2TCyNHM-unsplash.jpg)
 
-Merci à <a href="https://unsplash.com/@spencerbdavis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank"><span style="color:  #ff3349">***Spencer Davis***</span></a>  pour cette image libre de droits.
+Merci à <a href="https://unsplash.com/@spencerbdavis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank"><span style="color:  #ff3349">***Spencer Davis***</span></a>  pour cette image libre de droits sur unsplash.
   
