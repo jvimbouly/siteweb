@@ -18,6 +18,7 @@ categories:
 
 
 ***J'adhère à un nouveau projet pour la Réunion, proposé par une femme qui a toujours fait preuve de combativité, de détermination et d'intégrité.***
+
 ***Ce dimanche 27 juin, ma main ne tremblera pas au moment de glisser le bulletin de vote pour les élections régionales !***
 
 ***Je reste fidèle à mes convictions !***
