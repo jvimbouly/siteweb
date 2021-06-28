@@ -19,4 +19,6 @@ categories:
 
 ***Le changement tant attendu, a été acté !***
 
+***La Réunion doit être fière d'avoir une telle femme à la tête de la Région***
+
 ***Je reste fidèle à mes convictions !***
