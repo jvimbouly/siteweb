@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-06-28 08:14:30 +0400
+date:   2021-07-02 19:27:30 +0400
 categories: 
 ---
 
@@ -17,8 +17,6 @@ categories:
 ---
 
 
-***Le changement tant attendu, a été acté !***
+***La présidente de la Région est attachée à des symboles forts, n'en déplaise à certains !***
 
-***La Réunion doit être fière d'avoir une telle femme à la tête de la Région***
-
-***Je reste fidèle à mes convictions !***
+***Je suis réunionnais et fier de l'être !***

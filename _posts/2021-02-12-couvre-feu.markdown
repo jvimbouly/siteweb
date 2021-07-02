@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-06-26 18:01:30 +0400
+date:   2021-07-02 19:26:30 +0400
 categories: 
 ---
 <!---
@@ -33,11 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Do moun ici lé pa trop d'accord pou fé vaccine a zot contre COVID-19 !`
+`Le variant Delta i bat' karé dan léo !`
 
-`Le variant Delta lé la ! Koman sa la fé pou arriv' ici ?`
-
-`Mé surtout, koman i sa fé pou bloque sa ?`
+`Li va prend' le kar pou descen' dan léba !`
 
 
 ![COVID-19]({{ site.url }}/img/covid/spencer-davis-s4_g2TCyNHM-unsplash.jpg)
