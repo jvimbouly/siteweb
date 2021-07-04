@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Le variant Delta i bat' karé dan léo !`
 
-`Li va prend' le kar pou descen' dan léba !`
+`Li va prend' le kar pou allé dan léba !`
 
 
 ![COVID-19]({{ site.url }}/img/covid/spencer-davis-s4_g2TCyNHM-unsplash.jpg)
