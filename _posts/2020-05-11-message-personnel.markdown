@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-07-02 19:27:30 +0400
+date:   2021-07-06 13:07:30 +0400
 categories: 
 ---
 
@@ -17,6 +17,6 @@ categories:
 ---
 
 
-***La présidente de la Région est attachée à des symboles forts, n'en déplaise à certains !***
+***13°C à Trois Bassins ce matin à 8h00 !***
 
-***Je suis réunionnais et fier de l'être !***
+***Température glaciale pour travailler !***
