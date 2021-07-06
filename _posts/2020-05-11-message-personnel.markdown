@@ -17,6 +17,6 @@ categories:
 ---
 
 
-***13°C à Trois Bassins ce matin à 8h00 !***
+***13°C à 8h00 du matin à Trois Bassins !***
 
 ***Température glaciale pour travailler !***
