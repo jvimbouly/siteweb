@@ -40,5 +40,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ![COVID-19]({{ site.url }}/img/covid/belinda-fewings-yOloXSoR8vo-unsplash.jpg )
 
-Merci à <a href="https://unsplash.com/@bel2000a?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank"><span style="color:  #ff3349">***Belinda Fewings***</span></a>  pour cette image libre de droits sur <a href="https://unsplash.com/s/photos/vaccine-pfizer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+Merci à <a href="https://unsplash.com/@bel2000a?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank"><span style="color:  #ff3349">***Belinda Fewings***</span></a>  pour cette image libre de droits sur <a href="https://unsplash.com/s/photos/vaccine-pfizer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>.
   
