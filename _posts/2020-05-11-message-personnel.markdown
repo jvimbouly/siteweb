@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-07-06 13:07:30 +0400
+date:   2021-07-09 18:31:30 +0400
 categories: 
 ---
 
@@ -16,7 +16,4 @@ categories:
 <br>
 ---
 
-
-***13°C à 8h00 du matin à Trois Bassins !***
-
-***Température glaciale pour travailler !***
+![Fleur exotique]({{ site.url }}/img/fleurs/fleur_exotique.jpg)

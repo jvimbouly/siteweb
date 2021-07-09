@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-07-02 19:26:30 +0400
+date:   2021-07-09 18:30:30 +0400
 categories: 
 ---
 <!---
@@ -33,12 +33,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Le variant Delta i bat' karé dan léo !`
+`Variant Delta i fé peur nout bon dié !`
 
-`Li va prend' le kar pou allé dan léba !`
+`Li la parti koz in coup ek le pli gran bon dié et i vien pou nou là !`
 
 
-![COVID-19]({{ site.url }}/img/covid/spencer-davis-s4_g2TCyNHM-unsplash.jpg)
+![COVID-19]({{ site.url }}/img/covid/belinda-fewings-yOloXSoR8vo-unsplash.jpg )
 
-Merci à <a href="https://unsplash.com/@spencerbdavis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank"><span style="color:  #ff3349">***Spencer Davis***</span></a>  pour cette image libre de droits sur Unsplash.
+Merci à <a href="https://unsplash.com/@bel2000a?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank"><span style="color:  #ff3349">***Belinda Fewings***</span></a>  pour cette image libre de droits sur <a href="https://unsplash.com/s/photos/vaccine-pfizer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
   
