@@ -8,9 +8,11 @@ categories:
 
 *[**Photo du Sud-ouest de la Réunion prise par le spationaute Thomas Pesquet le 28 mai 2021 à partir de l'ISS, dans le cadre de la mission Alpha**](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}*
 
+*Comment se repérer ?*
+
 *Premier indice : l'Etang-Salé les bains se situe en haut de l'image ! (cliquer ci-dessous et zoomer)*
 
-*Deuxième indice : la côte photographiée, va de la Saline les Bains jusqu'au sud de Saint-Pierre juste avant le quartier de Grand-Bois*
+*Deuxième indice : la côte photographiée, va de la Saline les Bains (extrémité droite) jusqu'au sud de Saint-Pierre (tout à gauche) juste avant le quartier de Grand-Bois*
 
 
 [![Sud-ouest de la Réunion]({{ site.url }}/img/nature/sud_ouest_reunion_thomas_pesquet.jpg)](https://www.flickr.com/photos/thom_astro/51244923605/){:target="_blank"}
