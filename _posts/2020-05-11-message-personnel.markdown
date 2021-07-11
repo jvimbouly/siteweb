@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-07-09 18:31:30 +0400
+date:   2021-07-11 18:01:30 +0400
 categories: 
 ---
 
@@ -16,4 +16,4 @@ categories:
 <br>
 ---
 
-![Fleur exotique]({{ site.url }}/img/fleurs/fleur_exotique.jpg)
+![Fleur exotique]({{ site.url }}/img/fleurs/3_roses.jpg)
