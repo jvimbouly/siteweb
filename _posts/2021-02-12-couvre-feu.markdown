@@ -39,6 +39,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Lé pa sur, mi dor bien a swar ! un peu kom souvan !`
 
+<br>
 
 ![COVID-19]({{ site.url }}/img/covid/belinda-fewings-yOloXSoR8vo-unsplash.jpg )
 
