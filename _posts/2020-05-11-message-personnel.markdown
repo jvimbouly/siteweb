@@ -16,7 +16,7 @@ categories:
 <br>
 ---
 
-`<span style="color: red">***Touché par ce magnifique choix pour le 13 juillet !***</span>`
+<span style="color: red">***Touché par ce magnifique choix pour le 13 juillet !***</span>
 
 <br>
 
