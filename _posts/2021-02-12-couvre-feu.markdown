@@ -37,6 +37,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Mi laisse kozé, mon l'esprit lé pa la ek li et lé loin !`
 
+`Lé pa sur, mi dor bien a swar ! kom souvan !`
 
 ![COVID-19]({{ site.url }}/img/covid/belinda-fewings-yOloXSoR8vo-unsplash.jpg )
 
