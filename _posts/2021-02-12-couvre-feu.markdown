@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-07-09 18:30:30 +0400
+date:   2021-07-13 18:30:30 +0400
 categories: 
 ---
 <!---
@@ -33,9 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Variant Delta i fé peur nout bon dié !`
+`Nout bon dié l'avait besoin bat' la lang' !`
 
-`Li la parti koz in coup ek le pli gran bon dié et i vien pou nou là !`
+`Mi laisse kozé, mon l'esprit lé pa la ek li et lé loin !`
 
 
 ![COVID-19]({{ site.url }}/img/covid/belinda-fewings-yOloXSoR8vo-unsplash.jpg )
