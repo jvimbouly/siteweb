@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-07-15 06:31:30 +0400
+date:   2021-07-18 18:31:30 +0400
 categories: 
 ---
 
@@ -16,11 +16,10 @@ categories:
 <br>
 ---
 
-***English is very nice ! However, it need translating. No matters, it's holidays for me !***
 
 
 <span style="color: red">***Touché par ce magnifique choix pour le 13 juillet !***</span>
 
 <br>
 
-![Fleurs]({{ site.url }}/img/fleurs/3_roses.jpg)
+![Fleurs]({{ site.url }}/img/fleurs/roses_18072021.jpg)
