@@ -22,6 +22,6 @@ categories:
 
 <br>
 
-<span style="color: blue">***For you :***</span>
+
 
 ![Fleurs]({{ site.url }}/img/fleurs/roses_18072021.jpg)
