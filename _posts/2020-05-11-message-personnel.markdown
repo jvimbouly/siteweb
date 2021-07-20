@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-07-18 18:31:30 +0400
+date:   2021-07-20 18:31:30 +0400
 categories: 
 ---
 
@@ -18,8 +18,10 @@ categories:
 
 
 
-<span style="color: red">***Touché par ce magnifique choix pour le 13 juillet !***</span>
+<span style="color: red">***Touché par ...***</span>
 
 <br>
+
+<span style="color: blue">***For you :***</span>
 
 ![Fleurs]({{ site.url }}/img/fleurs/roses_18072021.jpg)
