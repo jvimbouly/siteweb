@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Le variant Delta i larg' pu nou !`
 
-`Et mwin aussi, mi sa pa largué !`
+`Mwin aussi, mi sa pa largué !`
 
 <br>
 
