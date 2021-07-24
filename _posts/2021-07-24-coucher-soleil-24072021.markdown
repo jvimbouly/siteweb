@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Coucher du soleil de l'hiver austral"
+date:   2021-07-24 19:03:30 +0400
+categories: 
+---
+
+<span style="color: blue">***Something strong can hurt***</span>
+
+![Coucher de soleil Hiver Austral]({{ site.url }}/img/coucher_soleil_hiver_austral_24072021.jpg)
