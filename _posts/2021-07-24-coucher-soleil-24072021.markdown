@@ -7,5 +7,6 @@ categories:
 
 <span style="color: blue">***Something strong can hurt***</span>
 
+<br>
 
 ![Coucher de soleil Hiver Austral]({{ site.url }}/img/coucher_soleil_hiver_austral_25072021.jpg)
