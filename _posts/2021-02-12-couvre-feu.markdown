@@ -33,7 +33,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Nout' bon dié i koné pu kosa i fo fé ! li bouge pa tro sinon li peu gayn' baizement ek le plu gran bon dieu dehors ! i faudra li trouv' band' bon l'explications si li veu enferm' enkor domoun le week-end !`
+`Nout' bon dié i koné pu kosa i fo fé ! La, li bouge pa tro sinon li peu gayn' baizement ek le plu gran bon dieu dehors ! i faudra li trouv' band' bon l'explications si li veu enferm' enkor domoun le week-end. Na voir si i écout' a li !`
 
 `Mi larg' pa !`
 
