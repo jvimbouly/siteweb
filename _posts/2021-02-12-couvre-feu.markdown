@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-07-20 18:30:30 +0400
+date:   2021-07-27 19:25:30 +0400
 categories: 
 ---
 <!---
@@ -33,9 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Le variant Delta i larg' pu nou !`
+`Nout' bon dié i koné pu kosa i fo fé ! li bouge pa tro sinon li peu gayn' baizement ek le plu gran bon dieu dehors ! i faudra li trouv' band' bon l'explications si li veu enferm' enkor domoun le week-end !`
 
-`Mwin aussi, mi sa pa largué !`
+`Mi larg' pa !`
 
 <br>
 

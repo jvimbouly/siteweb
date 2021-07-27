@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-07-20 18:31:30 +0400
+date:   2021-07-27 19:26:30 +0400
 categories: 
 ---
 
@@ -17,7 +17,7 @@ categories:
 ---
 
 
-<span style="color: red">***Touché par ...***</span>
+<span style="color: red">***Le remake de DUNE correspond davantage à mon genre de films. [Le Trailer du 22 Juillet est prometteur.](https://www.youtube.com/watch?v=CjVqieIWGjM){:target="_blank"}!***</span>
 
 <br>
 
