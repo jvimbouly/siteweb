@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-07-27 19:25:30 +0400
+date:   2021-07-29 18:30:30 +0400
 categories: 
 ---
 <!---
@@ -33,7 +33,15 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Nout' bon dié i koné pu kosa i fo fé ! La, li bouge pa tro sinon li peu gayn' baizement ek le plu gran bon dieu dehors ! i faudra li trouv' band' bon l'explications si li veu enferm' enkor domoun le week-end. Na voir si i écout' a li !`
+`Nout' ti bon dié la parti rakont' tout' le grand bon dieu dehors : La di que nou la pou fé le kouyon ! Sat' dehors té pa content et ester li sa fé gout' a nou !`
+
+La vie la poursuiv' a mwen
+
+Té dur mais ma la parti
+
+Ma la même parti loin
+
+Ek ce nouveau konfinemen, mi sens a mwin ammarré et mi lé enkor plus loin !  
 
 `Mi larg' pa !`
 
