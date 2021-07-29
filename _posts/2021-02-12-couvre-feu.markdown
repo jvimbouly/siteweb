@@ -33,15 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 
 
-`Nout' ti bon dié la parti rakont' tout' le grand bon dieu dehors : La di que nou la pou fé le kouyon ! Sat' dehors té pa content et ester li sa fé gout' a nou !`
+`Nout' ti bon dié la parti rakont' tout' : le grand bon dieu dehors i koné ester que nou la pou fé le kouyon ! Li lé pa content et la, li sa fé gout' a nou !`
 
-La vie la poursuiv' a mwen
-
-Té dur mais ma la parti
-
-Ma la même parti loin
-
-Ek ce nouveau konfinemen, mi sens a mwin ammarré et mi lé enkor plus loin !  
+`Ma na l'impression la amare a mwen. Et mi sen kom si mi lé enkor plus loin !`  
 
 `Mi larg' pa !`
 
