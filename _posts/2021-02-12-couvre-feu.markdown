@@ -35,7 +35,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `Nout' ti bon dié la parti rakont' tout' : le grand bon dieu dehors i koné ester que nou la pou fé le kouyon ! Li lé pa content et la, li sa fé gout' a nou !`
 
-`Ma na l'impression la amare a mwen. Et mi sen kom si mi lé enkor plus loin !`  
+`Mi na l'impression la amare a mwin. Et mi sen kom si mi lé enkor plus loin !`  
 
 `Mi larg' pa !`
 
