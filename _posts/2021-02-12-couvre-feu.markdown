@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-07-29 18:30:30 +0400
+date:   2021-07-31 17:45:30 +0400
 categories: 
 ---
 <!---
@@ -32,10 +32,13 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 --->
 
+***Lockdown in progress***
 
-`Nout' ti bon dié la parti rakont' tout' : le grand bon dieu dehors i koné ester que nou la pou fé le kouyon ! Li lé pa content et la, li sa fé gout' a nou !`
+`Zot i confine à nou, mé zot lé sûr domoun i sa sorti pou fé vaccin ?`
 
-`Mi na l'impression la amare a mwin. Et mi sen kom si mi lé enkor plus loin !`  
+`La, i fo veille Variant Delta, parce que li sa pa joué ek nou !`
+
+`Ester mi lé bloqué et mi lé enkor plus loin !`  
 
 `Mi larg' pa !`
 
