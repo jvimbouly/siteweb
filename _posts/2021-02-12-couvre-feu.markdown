@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-07-31 17:45:30 +0400
+date:   2021-08-01 17:45:30 +0400
 categories: 
 ---
 <!---
@@ -38,7 +38,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 `La, i fo veille Variant Delta, parce que li sa pa joué ek nou !`
 
-`Ester mi lé bloqué et mi lé enkor plus loin !`  
+`La bloque a mwin, mé i peu pa empeche mon l'esprit allé : fé sat zot la envie !`  
 
 `Mi larg' pa !`
 
