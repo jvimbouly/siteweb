@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-08-02 05:35:30 +0400
+date:   2021-08-03 18:53:30 +0400
 categories: 
 ---
 <!---
@@ -34,11 +34,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ***Lockdown in progress***
 
-`Zot i confine à nou, mé zot lé sûr domoun i sa sorti pou fé vaccin ?`
+`Néna un peu i fé band' gran zétudes, mé zot lé kapab sort' n'importe kel couillonisse ! Zot i aime bien moukate a nou, parce que nou lé gentil : nou di pa rien !`
 
-`La, i fo veille Variant Delta, parce que li sa pa joué ek nou !`
-
-`La bloque a mwin, mé i peu pa empeche mon l'esprit allé : fé sat zot la envie !`  
+`La bloque a mwin, mé i empeche mon l'esprit allé : fé sat zot la envie !`  
 
 `Mi larg' pa !`
 
