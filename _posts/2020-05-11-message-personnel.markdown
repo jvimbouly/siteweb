@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-07-28 11:10:30 +0400
+date:   2021-08-04 17:41:30 +0400
 categories: 
 ---
 
@@ -23,6 +23,6 @@ categories:
 
 <br>
 
+<span style="color: #FF00BF">***Double rainbow, this morning, for you :***</span>
 
-
-![Fleurs]({{ site.url }}/img/fleurs/roses_18072021.jpg)
+![Fleurs]({{ site.url }}/img/nature/2rainbows.jpg)
