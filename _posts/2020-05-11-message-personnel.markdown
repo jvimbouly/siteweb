@@ -23,6 +23,6 @@ categories:
 
 <br>
 
-<span style="color: #FF00BF">***Double rainbow, this morning, for you :***</span>
+<span style="color: #FF00BF">***Double rainbow this morning, for you :***</span>
 
 ![Fleurs]({{ site.url }}/img/nature/double_rainbows.jpg)
