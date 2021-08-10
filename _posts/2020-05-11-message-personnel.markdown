@@ -25,4 +25,4 @@ categories:
 
 <span style="color: #FF00BF">***Double rainbow, for you :***</span>
 
-![Fleurs]({{ site.url }}/img/nature/double_rainbows.jpg)
+![Rainbows]({{ site.url }}/img/nature/double_rainbows.jpg)
