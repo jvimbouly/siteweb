@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-08-03 18:53:30 +0400
+date:   2021-08-10 18:53:30 +0400
 categories: 
 ---
 <!---
@@ -34,11 +34,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ***Lockdown in progress***
 
-`Néna un peu i fé band' gran zétudes, mé zot lé kapab sort' n'importe kel couillonisse ! Zot i aime bien moukate a nou, parce que nou lé gentil : nou di pa rien !`
+`Heureusement dann' mois de juillet, ma la gayne mont' Saint Denis deux trois fois, pou voir un peu koman y lé la bas. Parce que là, i sar pa bien loin !`
 
-`La bloque a mwin, mé i empeche mon l'esprit allé : fé sat zot la envie !`  
-
-`Mi larg' pa !`
+`Kosa i serv bloque domoun kom sa ?`  
 
 <br>
 
