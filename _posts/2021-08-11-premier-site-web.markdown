@@ -16,5 +16,5 @@ Aujourd'hui, il y a environ 2 milliards de sites web !
 
 <br>
 
-***Août 1991 : C'était le temps de l'insouciance !***
+***Août 1991 : C'était le temps de l'insouciance et de l'..... !***
   
