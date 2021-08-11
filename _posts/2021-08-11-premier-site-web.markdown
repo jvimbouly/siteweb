@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Il y a 30 ans (le 6 Août 1991 plus exactement), le premier ***site web*** a été mis en ligne dans les locaux du CERN (créateurs du projet : Tim Berners-Lee, Robert Cailliau, Alain Fabre et Eelco van Asperen).
+Il y a 30 ans (le 6 Août 1991 plus exactement), le premier **site web** était mis en ligne dans les locaux du CERN (créateurs du projet : Tim Berners-Lee, Robert Cailliau, Alain Fabre et Eelco van Asperen).
 
 <a href="http://info.cern.ch/" target="_blank">Le site info.cern.ch est toujours en ligne ici.</a>
 
