@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-08-10 19:10:30 +0400
+date:   2021-08-12 18:10:30 +0400
 categories: 
 ---
 <!---
@@ -34,10 +34,13 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ***Lockdown in progress***
 
+`Nou la pa fini ek ce zistoir COVID, i sa kontinué bloque domoun : là, i sa res' enkor amaré !`
 
-`Heureusement dann' mois de juillet, ma la gayne mont' Saint Denis deux trois fois, pou voir un peu koman y lé la bas. Parce que là, i sar pa bien loin !`
+<br>
 
-`Kosa i serv bloque domoun kom sa ?`
+***`Mi koné ma la perd' beaucoup de choses !`***
+
+***`Beaucoup pour ne pas dire tellement de choses ...`***
 
 <br>
 
