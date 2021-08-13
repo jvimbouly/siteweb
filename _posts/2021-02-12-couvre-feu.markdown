@@ -40,7 +40,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ***`Mi koné ma la perd' beaucoup de choses !`***
 
-***`Beaucoup pour ne pas dire tellement de choses ...`***
+***`Il faudrait plutôt dire : Tellement de choses !`***
 
 <br>
 
