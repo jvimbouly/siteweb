@@ -5,7 +5,7 @@ date:   2021-08-15 07:00:30 +0400
 categories: 
 ---
 
-<span style="color: blue">***Jour de chance***</span>
+<span style="color: blue">***Have a nice day***</span>
 
 <br>
 
