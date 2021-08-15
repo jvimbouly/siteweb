@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Rainbow again"
+date:   2021-08-15 07:00:30 +0400
+categories: 
+---
+
+<span style="color: blue">***Jour de chance***</span>
+
+<br>
+
+![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/Rainbow_again_15082021.jpg)
