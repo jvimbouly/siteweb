@@ -9,4 +9,4 @@ categories:
 
 <br>
 
-![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/ouest_22082021.jpg)
+![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/ouest_ter_22082021.jpg)
