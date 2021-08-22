@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Côte ouest aux aurores"
-date:   2021-08-15 07:01:30 +0400
+date:   2021-08-22 06:55:30 +0400
 categories: 
 ---
 
@@ -9,4 +9,4 @@ categories:
 
 <br>
 
-![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/ouest_15082021.jpg)
+![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/ouest_22082021.jpg)
