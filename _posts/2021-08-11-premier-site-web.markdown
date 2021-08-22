@@ -17,4 +17,12 @@ Aujourd'hui, il y a un peu moins de 2 milliards de sites web !
 <br>
 
 ***Août 1991 : C'était le temps de l'insouciance, des balades et de l'..... !***
+
+***Rien ne sert d'éprouver de la nostalgie de ce passé qui n'a finalement rien apporté !***
+
+***Pas question pour autant d'éprouver ne serait-ce qu'une once de nostalgie de ce passé.***
+
+***Si le projet WWW de Tim Berners-Lee a tenu bon et s'est amélioré pour nous permettre de naviguer tous les jours sur les pages web, le mien a été un échec cuisant !***
+
+***C'est la vie !***
   
