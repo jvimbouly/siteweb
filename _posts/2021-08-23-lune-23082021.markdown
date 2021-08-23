@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Pleine lune"
+date:   2021-08-23 04:14:30 +0400
+categories: 
+---
+
+<span style="color: blue">***Ce matin, la lune est toujours présente aux aurores.***</span>
+
+<span style="color: blue">***Il en est de même pour mes pensées ...***</span>
+
+<br>
+
+![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/lune2_23082021.jpg)
