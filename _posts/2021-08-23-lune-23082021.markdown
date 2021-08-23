@@ -5,9 +5,9 @@ date:   2021-08-23 04:14:30 +0400
 categories: 
 ---
 
-<span style="color: blue">***Ce matin, la lune est toujours présente aux aurores.***</span>
+<span style="color: #d03614">***Ce matin, la lune est toujours présente aux aurores.***</span>
 
-<span style="color: blue">***Il en est de même pour mes pensées ...***</span>
+<span style="color: #d03614">***Il en est de même pour mes pensées ...***</span>
 
 <br>
 
