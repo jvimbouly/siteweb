@@ -5,10 +5,10 @@ date:   2021-08-23 04:14:30 +0400
 categories: 
 ---
 
-<span style="color: #d03614">***Ce matin, la lune est toujours présente aux aurores.***</span>
+<span style="color: #d03614">***Ce matin, la lune était présente aux aurores.***</span>
 
-<span style="color: #d03614">***Il en est de même pour mes pensées ...***</span>
+<span style="color: #d03614">***Il en était de même pour mes pensées et ce sera encore la même chose demain ...***</span>
 
 <br>
 
-![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/lune2_23082021.jpg)
+![Lever du jour sur la cote ouest]({{ site.url }}/img/nature/lune1_23082021.jpg)
