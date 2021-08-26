@@ -6,8 +6,11 @@ categories:
 ---
 
 ***Il y a 30 ans débutait l'histoire de Linux avec un post de son créateur : Linus Torvalds***
+
 ***Le noyau Linux fait partie de nombreux équipements informatiques de nos jours et peu de gens le savent.***
+
 ***Il est notamment au coeur des smartphones Android !***
+
 ***Linux est gratuit, libre et opensource !*** 
 
 <span style="color: #d03614">***Longue vie à LINUX !***</span>
