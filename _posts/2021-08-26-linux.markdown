@@ -17,4 +17,4 @@ categories:
 
 <br>
 
-![Tux la mascotte de Linux]({{ site.url }}/img/Tux.svg200.png)
+![Tux la mascotte de Linux]({{ site.url }}/img/foundation_tuxturns30_soc1.jpg)
