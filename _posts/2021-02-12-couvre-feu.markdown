@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couvre-feu sur toute la Réunion"
-date:   2021-08-26 18:12:30 +0400
+date:   2021-08-26 18:45:30 +0400
 categories: 
 ---
 <!---
@@ -34,7 +34,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ***Lockdown in progress***
 
-`Kosa i sa fé ek nou ?`
+`Enkor et enkor bloqué !`
 
 <br>
 
