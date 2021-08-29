@@ -1,25 +1,23 @@
 ---
 layout: post
 title:  "Perseverance"
-date:   2021-05-08 17:40:30 +0400
+date:   2021-08-29 18:30:30 +0400
 categories: 
 ---
-<span style="color: blue">***Perseverance est sur la Planète rouge depuis 77 Sols (ou Mars Solar Days). La mission se poursuit avec la mise en service progressive de l'hélicoptère Ingenuity. Tous les moyens sont déployés pour trouver une vie extra-terrestre !***</span>
+<span style="color: blue">***Perseverance est sur la Planète rouge depuis 187 Sols (ou Mars Solar Days) et l'hélicoptère Ingenuity en est à son douxième vol !***</span>
 
-<a href="https://mars.nasa.gov/mars2020/" target="_blank">=> Take a look here</a>
-<!---
-<span><a href="https://www.youtube.com/watch?v=ND7YO715QOE" target="_blank">Suivre ici en direct le premier vol d'ingenuity le 12/04/2021 à partir de 11h30 (heure Réunion)</a></span>
---->
 <br>
 
-<span style="color: #e933ff">***STATUS UPDATE =>***</span>
-<span style="color: red">***Le cinquième vol  a eu lieu hier, vendredi 07/05/2021. Ingenuity est monté à une altitude record de 10 mètres (33 feet) et a volé sur 129 mètres (424 feet) vers un nouveau site d'atterissage. Le vol a duré 108 secondes.***</span>
+<span style="color: red">***J'ai souvent la tête dans les étoiles !***</span>
 
-<span style="color: red">***Voici une image d'Ingenuity prise le 07/05/2021 à partir de l'une des caméras de navigation de Perseverance -> on le distingue sur la partie centrale, vers le bas :***</span>
 <br>
-![Image de la Navcam]({{ site.url }}/img/Smile/PIA24647.png)
+![Ingenuity]({{ site.url }}/img/Mars_Perseverance_ZL0_0048_0671199682_642ECM_N0031708ZCAM05005_110085J.png)
 
 Image : NASA/JPL-Caltech
 
+<br>
 
-**Je ne dispose pas de moyens aussi sophistiqués dans ma quête. Il faut donc faire preuve de persévérance.**
+![Ingenuity et Linux]({{ site.url }}/img/30yearsoflinux_soc2-705x370.jpg)
+
+
+Source : <a href="https://linuxfoundation.org/" target="_blank">The Linux Foundation</a>.
