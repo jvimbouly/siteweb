@@ -4,7 +4,7 @@ title:  "Perseverance"
 date:   2021-08-29 18:30:30 +0400
 categories: 
 ---
-<span style="color: blue">***Perseverance est sur la Planète rouge depuis 187 Sols (ou Mars Solar Days) et l'hélicoptère Ingenuity en est à son douzième vol (et un merci à Linux) !***</span>
+<span style="color: blue">***Perseverance est sur la Planète rouge depuis 187 Sols (ou Mars Solar Days) et l'hélicoptère Ingenuity en est à son douzième vol (avec un merci à Linux) !***</span>
 
 <br>
 
