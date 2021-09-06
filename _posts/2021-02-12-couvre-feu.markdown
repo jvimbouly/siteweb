@@ -32,7 +32,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 --->
 
-<span style="color: red">***End of Lockdown during the week***</span>
+<span style="color: red">***End of Lockdown during the week !***</span>
 
 
 <br>
