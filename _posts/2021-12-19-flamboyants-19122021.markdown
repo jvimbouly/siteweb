@@ -5,4 +5,4 @@ date:   2021-12-19 07:25:30 +0400
 categories: 
 ---
 
-![Flamboyant sous le soleil]({{ site.url }}/img/nature/flamboyants1.jpg)
+![Flamboyant sous le soleil]({{ site.url }}/img/nature/flamboyants2.jpg)
