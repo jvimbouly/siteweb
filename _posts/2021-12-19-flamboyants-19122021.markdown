@@ -7,6 +7,6 @@ categories:
 
 <span style="color: red">***Les flamboyants de la falaise de la Montage offrent un magnifique paysage !***</span>
 
-<span style="color: red">***Rien à envier à ceux de la partie Sud-Ouest de l'île!***</span>
+<span style="color: red">***Rien à envier à ceux de la partie Sud-Ouest de l'île !***</span>
 
 ![Flamboyant sous le soleil]({{ site.url }}/img/nature/flamboyants2.jpg)
