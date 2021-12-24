@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Couleur de Noël"
-date:   2021-12-19 07:25:30 +0400
+date:   2021-12-24 13:15:30 +0400
 categories: 
 ---
+
+<span style="color: red">***Les flamboyants de la falaise de la montage offre un magnifique paysage !***</span>
+
+<span style="color: red">***Rien à envier à ceux de la partie Sud-Ouest de l'île!***</span>
 
 ![Flamboyant sous le soleil]({{ site.url }}/img/nature/flamboyants2.jpg)
