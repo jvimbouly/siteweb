@@ -7,4 +7,4 @@ categories:
 
 ![Rayons du soleil au crépuscule]({{ site.url }}/img/nature/rayons_soleil_18122021.jpg)
 
-***Aucune retouche de l'image !***
+***Aucune retouche !***
