@@ -17,4 +17,4 @@ categories:
 ---
 
 
-<span style="color: red">***Je sais que j'ai tout perdu !***</span>
+<span style="color: red">***Je sais que j'ai perdu beaucoup de choses !***</span>
