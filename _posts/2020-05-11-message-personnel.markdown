@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2021-12-28 19:53:30 +0400
+date:   2021-12-30 19:48:30 +0400
 categories: 
 ---
 
@@ -17,4 +17,4 @@ categories:
 ---
 
 
-<span style="color: red">***Je sais que j'ai perdu beaucoup de choses !***</span>
+<span style="color: red">***Année 2021 : Pas un jour sans une pensée !***</span>
