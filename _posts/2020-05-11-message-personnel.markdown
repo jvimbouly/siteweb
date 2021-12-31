@@ -19,5 +19,7 @@ categories:
 
 <span style="color: red">***Année 2021 : Pas un jour sans une pensée !***</span>
 
+
+
 <span style="color: blue">***2021 va se terminer avec les mêmes restrictions que l'année dernière et dans la morosité !***</span>
 
