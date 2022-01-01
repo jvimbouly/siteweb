@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Avant le premier couvre-feu de l'année 2022"
+date:   2022-01-01 19:35:30 +0400
+categories: 
+---
+
+<span style="color: blue">***Le soleil s'en va et laisse place progressivement au premier couvre-feu de la nouvelle année !***</span>
+
+![Le soleil se couche]({{ site.url }}/img/nature/coucher_soleil_20220101.jpg)
