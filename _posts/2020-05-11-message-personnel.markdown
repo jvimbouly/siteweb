@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2022-01-12 19:10:30 +0400
+date:   2022-01-18 19:24:30 +0400
 categories: 
 ---
 
@@ -18,4 +18,4 @@ categories:
 
 
 
-<span style="color: blue">***Coronavirus lé kom karapat' su tété bèf, i larg' pu !***</span>
+<span style="color: blue">***Il semble que la stratégie consiste à laisser le coronavirus se propager. A ce rythme, nous allons tous être infectés !***</span>
