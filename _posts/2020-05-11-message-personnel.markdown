@@ -18,4 +18,4 @@ categories:
 
 
 
-<span style="color: blue">***Il semble que la stratégie consiste à laisser le coronavirus se propager. A ce rythme, nous allons tous être infectés !***</span>
+<span style="color: blue">***Il semblerait que la stratégie consiste à laisser le coronavirus se propager. A ce rythme, nous allons tous être infectés !***</span>
