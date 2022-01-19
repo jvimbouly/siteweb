@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mon Message post-confinement"
-date:   2022-01-18 19:24:30 +0400
+date:   2022-01-19 19:24:30 +0400
 categories: 
 ---
 
@@ -18,4 +18,6 @@ categories:
 
 
 
-<span style="color: blue">***Il semblerait que la stratégie adoptée, consiste à laisser le coronavirus se propager. A ce rythme, nous allons tous être infectés !***</span>
+<span style="color: blue">***Il semblerait que la stratégie adoptée, consiste à laisser le coronavirus se propager. A ce rythme, nous allons tous être infectés !***</span><br>
+
+<span style="color: red">***Quant aux plus fragiles, ....***</span>
