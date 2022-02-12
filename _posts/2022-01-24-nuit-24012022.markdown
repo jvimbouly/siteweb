@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Ciel rougeoyant"
-date:   2022-01-24 19:10:30 +0400
+date:   2022-02-12 11:40:30 +0400
 categories: 
 ---
 
-***Après la tombée de la nuit !***
 
-![Ciel rouge]({{ site.url }}/img/nature/ciel_enflamme_nuit_24012022.jpg)
+![Ciel rouge]({{ site.url }}/img/nature/coucher_11022022.jpg)
